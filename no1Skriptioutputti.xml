@@ -13,7 +13,7 @@
 	<!-- Sync notification success -->
 	<string name="sync_notification_device_success">katokku saksa Synchronisierung der Daten mit %1$s abgeschlossen</string>
 	<!-- Sync notification failed -->
-	<string name="sync_notification_device_failed">Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmal.</string>
+	<string name="sync_notification_device_failed">asdasdSynchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmal.</string>
 	<!-- Battery status title in devices view -->
 	<string name="devices_battery_status_title">Akkustatus wenn synchronisiert: %1$s %%</string>
 	<!-- Registration do initial mobile FTU setup info text -->

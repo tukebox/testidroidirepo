@@ -1,7 +1,7 @@
 <resources>
 	<!---->
 	<!-- Notifications main title -->
-	<string name="main_title_notifications">Meddelelser TESTI 1</string>
+	<string name="main_title_notifications">Meddelelser TESTI 1, TESTI2</string>
 	<!-- How to sync: V650 -->
 	<string name="support_item_how_to_sync_polar_v650">Joku muutos. Lisää muutosta. Muutossss. sdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
 	<!-- % of FTP unit -->

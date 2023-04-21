@@ -1,125 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-	<!---->
-	<!-- Notifications main title -->
-	<string name="main_title_notifications">Meddelelser TESTI 1, TESTI2</string>
-	<!-- How to sync: V650 -->
-	<string name="support_item_how_to_sync_polar_v650">Joku muutos. Lisää muutosta. Muutossss. sdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
-	<!-- % of FTP unit -->
-	<string name="unit_percent_of_ftp">% af FTP</string>
-	<!-- Benefit no description -->
-	<string name="benefit_no_description">Muutostaaaa... jups. TANSKADu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. Tipitii</string>
-	<!-- Basic steady state training benefit (SRP.02038.71.61) -->
-	<string name="benefit_value_basic_steady_state_basic">asdasdGrundlæggende og stabilasdasd  tilstands-træning Goroooooo</string>
-	<!-- Sync notification success -->
-	<string name="sync_notification_device_success">oiskotansa Datasynkronisering med %1$s gennemført. kylllasdasd</string>
-	<!-- Sync notification failed -->
-	<string name="sync_notification_device_failed">Joku muutos. Datasynkronisering med %1$s mislykkedes. Prøv igen.</string>
-	<!-- Battery status title in devices view -->
-	<string name="devices_battery_status_title">Batteristatus efter synkronisering: %1$s %%</string>
-	<!-- Registration do initial mobile FTU setup info text -->
-	<string name="registration_do_initial_mobile_ftu_setup_info_text">asdasd Noe! NoNIIII!!! Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.</string>
-	<!-- Balance weight measurement-->
-	<string name="balance_weight_differs_more_10">JoopaJoooo... koriör Den vægt, du lige har vejet dig til (%1$s), varierer med over 10 %% fra din forrige vægt (%2$s). Tush</string>
-	<!-- into text for licenses -->
-	<string name="license_intro">Hurraahuhhahhei, Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
-	<!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-	<string name="sensor_fwu_startup_description">Der findes en opdatering til dit %1$s.\nOpdateringen kan tage nogle få minutter.</string>
-	<!-- Sport profiles info text for speed or pace zones -->
-	<string name="sport_profiles_info_text_speed_pace_zones">Kokeillaas vielä... Med hastigheds- og kokkeroo, oisko mittää oisko soisko mittää :Dtempozonerne kan du nemt vælge og overvåge forskellige træningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vælger Brugertilpassede zoner, kan alle grænseværdier ændres.</string>
-	<!-- Sport profiles training display item -->
-	<string name="sport_profiles_training_display_item_power_lr_balance">Venstre/ højre-balance varmaan kymmenes kerta</string>
-	<!-- FTU Save and sync -->
-	<string name="ftu_save_sync">Gem og synkronisér</string>
-	<!-- Training session list view search bar placeholder text -->
-	<string name="training_session_list_view_filter_placeholder_text">tanska, Søg eller filtrer efter type ku ei nii ei</string>
-	<!-- EUGDPR consents: settings -->
-	<string name="consents_sensitive_data_checkbox">Joko se toimis :D Jeg accepterer, at <b>Polar må indsamle og Tupperis behandle mine personlige kokkerör oplysninger</b>, f.eks. om puls, som beskrevet i Polars erklæring om beskyttelse af privatlivets fred.</string>
-	<!-- Training display item sport profile settings - time of day-->
-	<string name="tdi_time_of_day">Titta på Tuira Tid på dag\u00ADen</string>
-	<!-- Training display item sport profile settings - time in pace zone-->
-	<string name="tdi_time_in_pace_zone">Tid i tem\u00ADpo\u00ADzone</string>
-	<!-- Training display item sport profile settings - ascent-->
-	<string name="tdi_ascent">Op\u00ADstig\u00ADning</string>
-	<!-- Training display item sport profile settings - descent-->
-	<string name="tdi_descent">Ned\u00ADstig\u00ADning</string>
-	<!-- Training display item sport profile settings - vertical speed-->
-	<string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkal has\u00ADtig\u00ADhed</string>
-	<!-- Training display item sport profile settings - left/right balance-->
-	<string name="tdi_current_power_left_right_balance">Ven\u00ADstre/\u00ADhøj\u00ADre-ba\u00ADlan\u00ADce</string>
-	<!--cardio load-->
-	<string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risiko for skade og sygdom</b></string>
-	<!--training load contextual info drawers-->
-	<string name="cardio_load_status_question_six">Grosseris. Hvordan sørger jeg for, at min status er effektiv? Jumalan kämmenellä</string>
-	<!--training load contextual info drawers-->
-	<string name="cardio_load_status_question_twelve">piri-is. Bør jeg sigte efter, at min status altid er effektiv? Ei nain</string>
-	<!-- Sleep regeneration info popup content -->
-	<string name="sleep_regeneration_popup_page2_para2">Den dybeste søvn sker under den <b>første halvdel af nattesøvnen</b>. I gennemsnit tæller dyb søvn for cirka 15 % af voksnes søvnperiode. Omkring 17 % giver dig den højeste vurdering for dette delelement af søvnvurderingen. Højere eller lavere procenter forbedrer ikke din vurdering.</string>
-	<!-- Sleep regeneration info popup content -->
-	<string name="sleep_regeneration_popup_page3_para1">REM står for ”rapid eye movement”. I REM-søvnen er dine muskler afslappede, men din hjerne er aktiv. REM-søvn <b>restituerer din hjerne</b> og forbedrer din <b>hukommelse</b> og <b>indlæring</b>. De fleste drømme foregår på dette stadie.</string>
-	<!-- Empty state for Nightly Recharge -->
-	<string name="nightly_recharge_empty_state_description">Statussen Nightly Recharge™ viser, kokeillaas viela,, hvordan din krop var i stand til at restituere fra træning og stress, mens du sov. Den kombinerer automatisk målte oplysninger om din søvn og dit autonome nervesystem (ANS). Dit hjerte er nøglen til denne indsigt.</string>
-	<!-- Nightly Recharge status info popup content -->
-	<string name="nightly_recharge_status_popup_ans_charge_para2">Din ANS kontrollerer to forskellige sæt handlinger, som din krop kan foretage: Om det er tid til at flygte eller kæmpe, eller om det er tid til at hvile og fordøje. Jo højere din ANS-tilstand er, jo mere vil hvil-og-fordøj-delen af din ANS-tilstand dominere i forhold til dit <b>normale niveau</b>.</string>
-	<!-- Tip for exercise -->
-	<string name="exercise_tip_e73">I dag er en god dag til træning, men overanstreng dig ikke, hvis din krop dig \\quot;nej\\quot;.</string>
-	<!-- Tip for exercise -->
-	<string name="exercise_tip_e92">Du kan træne i dag, selv hvis du føler, at du ikke er 100 % klar til det.</string>
-	<!-- Tip for exercise -->
-	<string name="exercise_tip_e123">Kom i gang. Se dit ur for at få en detaljeret træningsvejledning!</string>
-	<!-- Tip for exercise -->
-	<string name="exercise_tip_e181">I dag kan du blive en mester. Klø på!</string>
-	<!-- Empty state for Sleep Plus Stages -->
-	<string name="sleep_plus_stages_empty_state_description">Funktionen Sleep Plus Stages™ måler mængden og kvaliteten af din søvn. Hver morgen viser den en numerisk søvnvurdering (søvntilstand), der afspejler, hvor godt du har sovet sammenlignet med indikatorerne på en god nattesøvn på baggrund af den aktuelle søvnvidenskab.</string>
-	<!-- Sleep tip category: General -->
-	<string name="sleep_tip_g643">Afsæt tid til at slappe af om aftenen. Det kan hjælpe dig med at falde tidligere i søvn og sove længere.</string>
-	<!--Ignite ftu info screen-->
-	<string name="ignite_ftu_serene_para">Brug et øjeblik på dig selv med vejrtrækningsøvelser med vejledning fra Serene. Hvis du udfører dem jævnligt, kan Serene hjælpe dig med at forbedre kvaliteten af din søvn og din følelse af velvære i det hele taget.</string>
-	<!-- Favorites library: Device favorites -->
-	<string name="fav_lib_favs_on_device_header">Favoritter på %1$s (%2$s/%3$s)</string>
-	<!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-	<string name="smart_coaching_url">https://www.polar.com/da/smart-coaching?utm_source=flow_featureguidance_ios\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
-	<!--Running test - update-->
-	<string name="running_test_vo2max_info">Din <b>maksimale iltoptagelse (VO2max)</b> er din krops maksimale kapacitet til at forbrænde ilt under en maksimal indsats.\n\nOpdater din VO2max for at sikre, at vi kan levere de mest nøjagtige og relevante data. VO2max påvirker alle beregninger, der involverer kalorier.</string>
-	<!-- Cycling test: FTP information -->
-	<string name="cycling_test_ftp_info">FTP-værdien afspejler den intensitet, som en veltrænet cyklist kan opretholde i en time.\n\nOpdater din FTP-værdi for at få dine effektzoner opdateret, hvilket kan hjælpe dig med at træne ved den rette intensitet.</string>
-	<!-- Cycling test info pop-up 2 -->
-	<string name="cycling_test_info2">For at få de mest pålidelige resultater skal du sørge for at være på det samme effektniveau i hele testen. Hvis du sænker niveauet, vil resultaterne ikke være helt så pålidelige.\n\nI den første test vejleder vi dig med et effektmål, der er baseret på dine baggrundsoplysninger. Dette hjælper dig med at opretholde en stabil effekt i hele testen. Når du gentager testen, er målet baseret på dine tidligere resultater.</string>
-	<!-- Cycling test info pop-up 3 -->
-	<string name="cycling_test_info3">Brug testen til at holde styr på din cykelpræstation og til at definere dine individuelle effektzoner. Dit FTP-resultat divideres med din vægt, så du kan sammenligne dit resultat med andre cyklister af samme køn. Husk at opdatere din vægt i dine indstillinger.</string>
-	<!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-	<string name="ps_diary_complete_training_time">%1$@:\npå %2$@</string>
-	<!-- Polestar timeline items: indoor sportsing: calories -->
-	<string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
-	<!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-	<string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ på %3$@</string>
-	<!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-	<string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
-	<!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-	<string name="ps_diary_training_time_calories">%1$@:\n%2$@ på %3$@</string>
-	<!-- Polestar error cases: Location is off -->
-	<string name="record_exercise_location_off">For at se din hastighed og distance under træning skal du give Flow tilladelse til at bruge din lokalitet, mens du bruger appen eller altid.</string>
-	<!-- Polestar error cases: Precise location is off -->
-	<string name="record_exercise_precise_location_off">For at se din hastighed og distance under din træning skal du give Flow tilladelse til at bruge din nøjagtige placering.</string>
-	<!-- Polestar error cases: Location and precise location are off -->
-	<string name="record_exercise_location_off_precise_location_off">Tipitii For at se din hastighed og distance under træning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din præcise lokalitet.</string>
-	<!-- Battery status-->
-	<string name="battery_status_percentage">Batteri %1$s %%</string>
-	<!-- sleep edit -->
-	<string name="sleep_edit_rules_popup_rule_four">Du kan vælge \\quot;Skift tilbage\\quot; for at skifte tilbage til den oprindelige timing</string>
-	<!-- walking test -->
-	<string name="walking_test_info_part_three">Baseret på dit VO2max-resultat, din alder og dit køn definerer vi dit konditionsniveau på en skala fra \&apos;Meget lav\&apos; til \&apos;Elite\&apos;.</string>
-	<!-- R&D refusal tick box header -->
-	<string name="settings_refuse_data_use_for_rd_purposes_header">Forskning og udvikling</string>
-	<!-- R&D refusal tick box text -->
-	<string name="settings_refuse_data_use_for_rd_purposes_text">Jeg vil ikke have, at mine data bliver brugt til %1$s. Brug af data hjælper Polar med at udvikle og forbedre produkter og tjenester.</string>
-	<!-- R&D refusal tick box variable link -->
-	<string name="settings_refuse_data_use_for_rd_purposes_link">forskning og udvikling</string>
-	<!-- Alertness -->
-	<string name="sleep_and_internal_rhythm">Søvn og indre rytme</string>
-	<!-- Alertness -->
-	<string name="boost_from_sleep_accuracy_disclaimer">Din prognose er gyldig, når du har søvndata fra hver nat i løbet af de seneste syv dage</string>
-	<!-- Alertness-related info screens -->
-	<string name="trends_info_screen_one_text_one">Tendensen for <b>boostscore</b> viser, hvordan Kokkeror. søvn har boostet dine dage på det seneste. Din score kan være <i>fremragende</i>, <i>god</i>, <i>rimelig</i> eller <i>moderat</i>. En fremragende boostscore betyder, at du får alle fordelene ved en god søvn, der kan hjælpe dig hele dagen. Din boostscore kan være moderat, hvis du f.eks. har et stort søvnunderskud.</string>
-	<!-- Alertness-related info screens -->
-	<string name="trends_info_screen_two_text_two">Hvis din gennemsnitlige <b>søvnperiode</b> ikke en gang er i nærheden af indstillingen for din <i>foretrukne søvnperiode</i>, kan det være nyttigt at overveje:\n\n- om du muligvis er i søvnunderskud\n\n- om du bør tilpasse indstillingen, så den passer til dit egentlige søvnbehov</string>
+
+    <!--  -->
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Meddelelser TESTI 1, TESTI2, TESTI3, TESTI4, TESTI5, Testi6</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Joku muutos. LisÃ¤Ã¤ muutosta. Muutossss. sdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vÃ¦lge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% af FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Muutostaaaa... jups. TANSKADu skal trÃ¦ne mindst 10 minutter over 50 % af din beregnede maks. pulsvÃ¦rdi for at fÃ¥ feedback. Tipitii</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">asdasdGrundlÃ¦ggende og stabilasdasd  tilstands-trÃ¦ning Goroooooo</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">oiskotansa Datasynkronisering med %1$s gennemfÃ¸rt. kylllasdasd</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Joku muutos. Datasynkronisering med %1$s mislykkedes. PrÃ¸v igen.asdasdtanska </string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Batteristatus efter synkronisering: %1$s %%</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">asdasd Noe! NoNIIII!!! KontrollÃ©r venligst, at Bluetooth er aktiveret bÃ¥de pÃ¥ din telefon og pÃ¥ enheden, og hold dem tÃ¦t pÃ¥ hinanden under opsÃ¦tningen. Du kan ogsÃ¥ foretage opsÃ¦tningen med din computer, hvis du foretrÃ¦kker det.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">JoopaJoooo... koriÃ¶r Den vÃ¦gt, du lige har vejet dig til (%1$s), varierer med over 10 %% fra din forrige vÃ¦gt (%2$s). Tush</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Hurraahuhhahhei, Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\â€™ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Der findes en opdatering til dit %1$s.\nOpdateringen kan tage nogle fÃ¥ minutter.</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Kokeillaas vielÃ¤... Med hastigheds- og kokkeroo, oisko mittÃ¤Ã¤ oisko soisko mittÃ¤Ã¤ :Dtempozonerne kan du nemt vÃ¦lge og overvÃ¥ge forskellige trÃ¦ningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vÃ¦lger Brugertilpassede zoner, kan alle grÃ¦nsevÃ¦rdier Ã¦ndres.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Venstre/ hÃ¸jre-balance varmaan kymmenes kerta</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Gem og synkronisÃ©r</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">tanska, SÃ¸g eller filtrer efter type ku ei nii ei</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Joko se toimis :D Jeg accepterer, at <b>Polar mÃ¥ indsamle og Tupperis behandle mine personlige kokkerÃ¶r oplysninger</b>, f.eks. om puls, som beskrevet i Polars erklÃ¦ring om beskyttelse af privatlivets fred.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Titta pÃ¥ Tuira Tid pÃ¥ dag\u00ADen</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Tid i tem\u00ADpo\u00ADzone</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Op\u00ADstig\u00ADning</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Ned\u00ADstig\u00ADning</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkal has\u00ADtig\u00ADhed</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Ven\u00ADstre/\u00ADhÃ¸j\u00ADre-ba\u00ADlan\u00ADce</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risiko for skade og sygdom</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Grosseris. Hvordan sÃ¸rger jeg for, at min status er effektiv? Jumalan kÃ¤mmenellÃ¤</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">piri-is. BÃ¸r jeg sigte efter, at min status altid er effektiv? Ei nain</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Den dybeste sÃ¸vn sker under den <b>fÃ¸rste halvdel af nattesÃ¸vnen</b>. I gennemsnit tÃ¦ller dyb sÃ¸vn for cirka 15 % af voksnes sÃ¸vnperiode. Omkring 17 % giver dig den hÃ¸jeste vurdering for dette delelement af sÃ¸vnvurderingen. HÃ¸jere eller lavere procenter forbedrer ikke din vurdering.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM stÃ¥r for â€rapid eye movementâ€. I REM-sÃ¸vnen er dine muskler afslappede, men din hjerne er aktiv. REM-sÃ¸vn <b>restituerer din hjerne</b> og forbedrer din <b>hukommelse</b> og <b>indlÃ¦ring</b>. De fleste drÃ¸mme foregÃ¥r pÃ¥ dette stadie.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Statussen Nightly Rechargeâ„¢ viser, kokeillaas viela,, hvordan din krop var i stand til at restituere fra trÃ¦ning og stress, mens du sov. Den kombinerer automatisk mÃ¥lte oplysninger om din sÃ¸vn og dit autonome nervesystem (ANS). Dit hjerte er nÃ¸glen til denne indsigt.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Din ANS kontrollerer to forskellige sÃ¦t handlinger, som din krop kan foretage: Om det er tid til at flygte eller kÃ¦mpe, eller om det er tid til at hvile og fordÃ¸je. Jo hÃ¸jere din ANS-tilstand er, jo mere vil hvil-og-fordÃ¸j-delen af din ANS-tilstand dominere i forhold til dit <b>normale niveau</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">I dag er en god dag til trÃ¦ning, men overanstreng dig ikke, hvis din krop dig \&quot;nej\&quot;.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Du kan trÃ¦ne i dag, selv hvis du fÃ¸ler, at du ikke er 100 % klar til det.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Kom i gang. Se dit ur for at fÃ¥ en detaljeret trÃ¦ningsvejledning!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">I dag kan du blive en mester. KlÃ¸ pÃ¥!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Funktionen Sleep Plus Stagesâ„¢ mÃ¥ler mÃ¦ngden og kvaliteten af din sÃ¸vn. Hver morgen viser den en numerisk sÃ¸vnvurdering (sÃ¸vntilstand), der afspejler, hvor godt du har sovet sammenlignet med indikatorerne pÃ¥ en god nattesÃ¸vn pÃ¥ baggrund af den aktuelle sÃ¸vnvidenskab.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">AfsÃ¦t tid til at slappe af om aftenen. Det kan hjÃ¦lpe dig med at falde tidligere i sÃ¸vn og sove lÃ¦ngere.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Brug et Ã¸jeblik pÃ¥ dig selv med vejrtrÃ¦kningsÃ¸velser med vejledning fra Serene. Hvis du udfÃ¸rer dem jÃ¦vnligt, kan Serene hjÃ¦lpe dig med at forbedre kvaliteten af din sÃ¸vn og din fÃ¸lelse af velvÃ¦re i det hele taget.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Favoritter pÃ¥ %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/da/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Din <b>maksimale iltoptagelse (VO2max)</b> er din krops maksimale kapacitet til at forbrÃ¦nde ilt under en maksimal indsats.\n\nOpdater din VO2max for at sikre, at vi kan levere de mest nÃ¸jagtige og relevante data. VO2max pÃ¥virker alle beregninger, der involverer kalorier.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">FTP-vÃ¦rdien afspejler den intensitet, som en veltrÃ¦net cyklist kan opretholde i en time.\n\nOpdater din FTP-vÃ¦rdi for at fÃ¥ dine effektzoner opdateret, hvilket kan hjÃ¦lpe dig med at trÃ¦ne ved den rette intensitet.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">For at fÃ¥ de mest pÃ¥lidelige resultater skal du sÃ¸rge for at vÃ¦re pÃ¥ det samme effektniveau i hele testen. Hvis du sÃ¦nker niveauet, vil resultaterne ikke vÃ¦re helt sÃ¥ pÃ¥lidelige.\n\nI den fÃ¸rste test vejleder vi dig med et effektmÃ¥l, der er baseret pÃ¥ dine baggrundsoplysninger. Dette hjÃ¦lper dig med at opretholde en stabil effekt i hele testen. NÃ¥r du gentager testen, er mÃ¥let baseret pÃ¥ dine tidligere resultater.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Brug testen til at holde styr pÃ¥ din cykelprÃ¦station og til at definere dine individuelle effektzoner. Dit FTP-resultat divideres med din vÃ¦gt, sÃ¥ du kan sammenligne dit resultat med andre cyklister af samme kÃ¸n. Husk at opdatere din vÃ¦gt i dine indstillinger.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$@:\npÃ¥ %2$@</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ pÃ¥ %3$@</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ pÃ¥ %3$@</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">For at se din hastighed og distance under trÃ¦ning skal du give Flow tilladelse til at bruge din lokalitet, mens du bruger appen eller altid.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">For at se din hastighed og distance under din trÃ¦ning skal du give Flow tilladelse til at bruge din nÃ¸jagtige placering.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Tipitii For at se din hastighed og distance under trÃ¦ning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din prÃ¦cise lokalitet.</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Batteri %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Du kan vÃ¦lge \&quot;Skift tilbage\&quot; for at skifte tilbage til den oprindelige timing</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Baseret pÃ¥ dit VO2max-resultat, din alder og dit kÃ¸n definerer vi dit konditionsniveau pÃ¥ en skala fra \&apos;Meget lav\&apos; til \&apos;Elite\&apos;.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Forskning og udvikling</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Jeg vil ikke have, at mine data bliver brugt til %1$s. Brug af data hjÃ¦lper Polar med at udvikle og forbedre produkter og tjenester.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">forskning og udvikling</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">SÃ¸vn og indre rytme</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Din prognose er gyldig, nÃ¥r du har sÃ¸vndata fra hver nat i lÃ¸bet af de seneste syv dage</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">Tendensen for <b>boostscore</b> viser, hvordan Kokkeror. sÃ¸vn har boostet dine dage pÃ¥ det seneste. Din score kan vÃ¦re <i>fremragende</i>, <i>god</i>, <i>rimelig</i> eller <i>moderat</i>. En fremragende boostscore betyder, at du fÃ¥r alle fordelene ved en god sÃ¸vn, der kan hjÃ¦lpe dig hele dagen. Din boostscore kan vÃ¦re moderat, hvis du f.eks. har et stort sÃ¸vnunderskud.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Hvis din gennemsnitlige <b>sÃ¸vnperiode</b> ikke en gang er i nÃ¦rheden af indstillingen for din <i>foretrukne sÃ¸vnperiode</i>, kan det vÃ¦re nyttigt at overveje:\n\n- om du muligvis er i sÃ¸vnunderskud\n\n- om du bÃ¸r tilpasse indstillingen, sÃ¥ den passer til dit egentlige sÃ¸vnbehov</string>
+
 </resources>

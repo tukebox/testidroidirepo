@@ -4,16 +4,16 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Fransuaa, NotificationsTESTI1, Testi6</string>
+    <string name="main_title_notifications">Ranska, NotificationsTESTI1, Testi6. Seuraavatesti</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">RANSKA!! Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">RANSKA!!asdasdsad Pasdasdour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% de FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Ranska tosi on Vous ranske devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.</string>
+    <string name="benefit_no_description">Crontabi yms. testi! ja Windows scheluder. on Vous ranske devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="asdasdbenefit_value_basic_steady_state_basic">PElaan ranskalla, Entraînement de base et régulier</string>
@@ -34,7 +34,7 @@
     <string name="balance_weight_differs_more_10">Ranskaaaa!! Le poids que vous venez de mesurer (%1$s) diffère de plus de 10 %% de votre poids précédent (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">testi topille Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
     <string name="sensor_fwu_startup_description">Une mise à jour est disponible pour votre %1$s.\nIl se peut que la mise à jour prenne quelques minutes.</string>

@@ -13,10 +13,10 @@
     <string name="unit_percent_of_ftp">% af FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Du skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
+    <string name="benefit_no_description">asdasdDu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Grundlæggende og stabil tilstands-træning</string>
+    <string name="benefit_value_basic_steady_state_basic">assadd Grundlæggende og stabil tilstands-træning</string>
 
     <!-- Sync notification success -->
     <string name="sync_notification_device_success">Datasynkronisering med %1$s gennemført.</string>

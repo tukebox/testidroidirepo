@@ -4,58 +4,58 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Meddelelser TESTI 1, TESTI2, TESTI3, TESTI4, TESTI5, Testi6, Testi7 depthtestiasdasd Kohtalon hetki</string>
+    <string name="main_title_notifications">Meddelelser</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Testataan vielä reontabi Joku muutos. asdasdcome on Lisää muutosta. Muutossss. jupssdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">For at synkronisere din V650 med Flow-appen skal du vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">% af FTP viime hetken testi</string>
+    <string name="unit_percent_of_ftp">% af FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Muutostaaaa... jups. TANSKADu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. Tipitii</string>
+    <string name="benefit_no_description">Du skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">asdasdGrundlæggende og stabilasdasd  tilstands-træning Goroooooo</string>
+    <string name="benefit_value_basic_steady_state_basic">Grundlæggende og stabil tilstands-træning</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">oiskotansa Datasynkronisering med %1$s gennemført. kylllasdasd</string>
+    <string name="sync_notification_device_success">Datasynkronisering med %1$s gennemført.</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Joku muutos. Datasynkronisering med %1$s mislykkedes. Prøv igen.asdasdtanska </string>
+    <string name="sync_notification_device_failed">Datasynkronisering med %1$s mislykkedes. Prøv igen.</string>
 
     <!-- Battery status title in devices view -->
     <string name="devices_battery_status_title">Batteristatus efter synkronisering: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
-    <string name="registration_do_initial_mobile_ftu_setup_info_text">asdasd Noe! NoNIIII!!! Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.</string>
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">JoopaJoooo... testiaaa  Den vægt, du lige har vejet dig til (%1$s), varierer med over 10 %% fra din forrige vægt (%2$s). Tush</string>
+    <string name="balance_weight_differs_more_10">Den vægt, du lige har vejet dig til (%1$s), varierer med over 10 %% fra din forrige vægt (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Hurraahuhhahhei, Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
     <string name="sensor_fwu_startup_description">Der findes en opdatering til dit %1$s.\nOpdateringen kan tage nogle få minutter.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
-    <string name="sport_profiles_info_text_speed_pace_zones">Kokeillaas vielä... Med hastigheds- og kokkeroo, oisko mittää oisko soisko mittää :Dtempozonerne kan du nemt vælge og overvåge forskellige træningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vælger Brugertilpassede zoner, kan alle grænseværdier ændres.</string>
+    <string name="sport_profiles_info_text_speed_pace_zones">Med hastigheds- og tempozonerne kan du nemt vælge og overvåge forskellige træningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vælger Brugertilpassede zoner, kan alle grænseværdier ændres.</string>
 
     <!-- Sport profiles training display item -->
-    <string name="sport_profiles_training_display_item_power_lr_balance">Venstre/ højre-balance varmaan kymmenes kerta</string>
+    <string name="sport_profiles_training_display_item_power_lr_balance">Venstre/ højre-balance</string>
 
     <!-- FTU Save and sync -->
     <string name="ftu_save_sync">Gem og synkronisér</string>
 
     <!-- Training session list view search bar placeholder text -->
-    <string name="training_session_list_view_filter_placeholder_text">tanska, Søg eller filtrer efter type ku ei nii ei</string>
+    <string name="training_session_list_view_filter_placeholder_text">Søg eller filtrer efter type</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">Joko se toimis :D Jeg accepterer, at <b>Polar må indsamle og Tupperis behandle mine personlige kokkerör oplysninger</b>, f.eks. om puls, som beskrevet i Polars erklæring om beskyttelse af privatlivets fred.</string>
+    <string name="consents_sensitive_data_checkbox">Jeg accepterer, at <b>Polar må indsamle og behandle mine personlige oplysninger</b>, f.eks. om puls, som beskrevet i Polars erklæring om beskyttelse af privatlivets fred.</string>
 
     <!-- Training display item sport profile settings - time of day -->
-    <string name="tdi_time_of_day">Titta på Tuira Tid på dag\u00ADen</string>
+    <string name="tdi_time_of_day">Tid på dag\u00ADen</string>
 
     <!-- Training display item sport profile settings - time in pace zone -->
     <string name="tdi_time_in_pace_zone">Tid i tem\u00ADpo\u00ADzone</string>
@@ -76,10 +76,10 @@
     <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risiko for skade og sygdom</b></string>
 
     <!-- training load contextual info drawers -->
-    <string name="cardio_load_status_question_six">Grosseris. Hvordan sørger jeg for, at min status er effektiv? Jumalan kämmenellä</string>
+    <string name="cardio_load_status_question_six">Hvordan sørger jeg for, at min status er effektiv?</string>
 
     <!-- training load contextual info drawers -->
-    <string name="cardio_load_status_question_twelve">piri-is. Bør jeg sigte efter, at min status altid er effektiv? Ei nain</string>
+    <string name="cardio_load_status_question_twelve">Bør jeg sigte efter, at min status altid er effektiv?</string>
 
     <!-- Sleep regeneration info popup content -->
     <string name="sleep_regeneration_popup_page2_para2">Den dybeste søvn sker under den <b>første halvdel af nattesøvnen</b>. I gennemsnit tæller dyb søvn for cirka 15 % af voksnes søvnperiode. Omkring 17 % giver dig den højeste vurdering for dette delelement af søvnvurderingen. Højere eller lavere procenter forbedrer ikke din vurdering.</string>
@@ -88,7 +88,7 @@
     <string name="sleep_regeneration_popup_page3_para1">REM står for ”rapid eye movement”. I REM-søvnen er dine muskler afslappede, men din hjerne er aktiv. REM-søvn <b>restituerer din hjerne</b> og forbedrer din <b>hukommelse</b> og <b>indlæring</b>. De fleste drømme foregår på dette stadie.</string>
 
     <!-- Empty state for Nightly Recharge -->
-    <string name="nightly_recharge_empty_state_description">Statussen Nightly Recharge™ viser, kokeillaas viela,, hvordan din krop var i stand til at restituere fra træning og stress, mens du sov. Den kombinerer automatisk målte oplysninger om din søvn og dit autonome nervesystem (ANS). Dit hjerte er nøglen til denne indsigt.</string>
+    <string name="nightly_recharge_empty_state_description">Statussen Nightly Recharge™ viser, hvordan din krop var i stand til at restituere fra træning og stress, mens du sov. Den kombinerer automatisk målte oplysninger om din søvn og dit autonome nervesystem (ANS). Dit hjerte er nøglen til denne indsigt.</string>
 
     <!-- Nightly Recharge status info popup content -->
     <string name="nightly_recharge_status_popup_ans_charge_para2">Din ANS kontrollerer to forskellige sæt handlinger, som din krop kan foretage: Om det er tid til at flygte eller kæmpe, eller om det er tid til at hvile og fordøje. Jo højere din ANS-tilstand er, jo mere vil hvil-og-fordøj-delen af din ANS-tilstand dominere i forhold til dit <b>normale niveau</b>.</string>
@@ -154,7 +154,7 @@
     <string name="record_exercise_precise_location_off">For at se din hastighed og distance under din træning skal du give Flow tilladelse til at bruge din nøjagtige placering.</string>
 
     <!-- Polestar error cases: Location and precise location are off -->
-    <string name="record_exercise_location_off_precise_location_off">Tipitii For at se din hastighed og distance under træning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din præcise lokalitet.</string>
+    <string name="record_exercise_location_off_precise_location_off">For at se din hastighed og distance under træning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din præcise lokalitet.</string>
 
     <!-- Battery status -->
     <string name="battery_status_percentage">Batteri %1$s %%</string>
@@ -181,7 +181,7 @@
     <string name="boost_from_sleep_accuracy_disclaimer">Din prognose er gyldig, når du har søvndata fra hver nat i løbet af de seneste syv dage</string>
 
     <!-- Alertness-related info screens -->
-    <string name="trends_info_screen_one_text_one">Tendensen for <b>boostscore</b> viser, hvordan Kokkeror. søvn har boostet dine dage på det seneste. Din score kan være <i>fremragende</i>, <i>god</i>, <i>rimelig</i> eller <i>moderat</i>. En fremragende boostscore betyder, at du får alle fordelene ved en god søvn, der kan hjælpe dig hele dagen. Din boostscore kan være moderat, hvis du f.eks. har et stort søvnunderskud.</string>
+    <string name="trends_info_screen_one_text_one">Tendensen for <b>boostscore</b> viser, hvordan søvn har boostet dine dage på det seneste. Din score kan være <i>fremragende</i>, <i>god</i>, <i>rimelig</i> eller <i>moderat</i>. En fremragende boostscore betyder, at du får alle fordelene ved en god søvn, der kan hjælpe dig hele dagen. Din boostscore kan være moderat, hvis du f.eks. har et stort søvnunderskud.</string>
 
     <!-- Alertness-related info screens -->
     <string name="trends_info_screen_two_text_two">Hvis din gennemsnitlige <b>søvnperiode</b> ikke en gang er i nærheden af indstillingen for din <i>foretrukne søvnperiode</i>, kan det være nyttigt at overveje:\n\n- om du muligvis er i søvnunderskud\n\n- om du bør tilpasse indstillingen, så den passer til dit egentlige søvnbehov</string>

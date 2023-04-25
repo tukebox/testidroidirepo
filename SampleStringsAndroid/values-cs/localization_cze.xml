@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- localization_cze.xml
-    PolarFlow
-
-    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
-    
-    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
-
 <resources>
 
+    <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Upozornění</string>
+    <string name="main_title_notifications">Upozorněn Toimiikohan samalla repolla? part 2</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte %1$s v postranní nabídce přístroje V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">%% FTP</string>
+    <string name="unit_percent_of_ftp">% FTP</string>
 
     <!-- Benefit no description -->
     <string name="benefit_no_description">Abyste získali zpětnou vazbu, musíte trénovat alespoň 10 minut nad 50 % vaší vypočtené maximální tepové frekvence.</string>
@@ -31,7 +25,7 @@
     <string name="sync_notification_device_failed">Synchronizace dat s %1$s se nezdařila. Zkuste to znovu.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Stav baterie při synchronizaci: %1$s</string>
+    <string name="devices_battery_status_title">Stav baterie při synchronizaci: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Dbejte na to, aby na telefonu i na přístroji bylo aktivovano Bluetooth, a mějte při nastavení obě zařízení položená vedle sebe. Pokud chcete, můžete nastavení provést i přes počítač.</string>
@@ -43,7 +37,7 @@
     <string name="license_intro">Licence třetích stran\n\nPolar Flow používá software s otevřeným zdrojovým kódem třetích stran. Níže uvádíme výčet používaného softwaru a také příslušné informace o autorských právech a další informace, povolení a poděkování.\n\nDěkujeme vývojářům.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Pro %1$s (%2$s) je k dispozici aktualizace</string>
+    <string name="sensor_fwu_startup_description">Pro %1$s je k dispozici aktualizace.\nAktualizace může trvat několik minut.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Prostřednictvím zón rychlosti/tempa můžete snadno vybírat a monitorovat intenzitu tréninku. Zde se zobrazují výchozí zóny.\n\nKdyž zvolíte možnost Upravené zóny, můžete všechny limity měnit.</string>
@@ -100,7 +94,7 @@
     <string name="nightly_recharge_status_popup_ans_charge_para2">ANS řídí dvě skupiny činností, které může vykonávat vaše tělo: zda je čas bojovat či utíkat, nebo odpočívat a trávit. Čím vyšší je kvalita ANS, tím více dominuje součást ANS zodpovědná za odpočinek a trávení ve srovnání s <b>obvyklým stavem</b>.</string>
 
     <!-- Tip for exercise -->
-    <string name="exercise_tip_e73">Dnes je dobrý den na cvičení, ale nepřežeňte to, pokud vaše tělo říká „no“.</string>
+    <string name="exercise_tip_e73">Dnes je dobrý den na cvičení, ale nepřežeňte to, pokud vaše tělo říká \„no\“.</string>
 
     <!-- Tip for exercise -->
     <string name="exercise_tip_e92">Dnes můžete trénovat, i když se možná necítíte na 100 % připraveni.</string>
@@ -124,7 +118,7 @@
     <string name="fav_lib_favs_on_device_header">Oblíbené v %1$s (%2$s/%3$s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
     <string name="running_test_vo2max_info">Vaše <b>maximální spotřeba kyslíku (VO2max)</b> je maximální kapacita vašeho těla spotřebovávat kyslík během maximálního úsilí.\n\nAktualizujte svoji hodnotu VO2max, abyste se ujistili, že vám můžeme poskytnout nejpřesnější a nejvýznamnější data. VO2max ovlivňuje všechny výpočty, které zahrnují kalorie.</string>
@@ -139,22 +133,22 @@
     <string name="cycling_test_info3">Pomocí testu můžete sledovat svůj cyklistický výkon a určit své silové zóny. Váš výsledek FTP vydělený vaší hmotností umožňuje srovnání s ostatními cyklisty stejného pohlaví. Nezapomeňte aktualizovat svou hmotnost v nastavení.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$s:\nza %2$s</string>
+    <string name="ps_diary_complete_training_time">%1$@:\nza %2$@</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s za %3$s</string>
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ za %3$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$s:\n%2$s za %3$s</string>
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ za %3$@</string>
 
     <!-- Polestar error cases: Location is off -->
-    <string name="record_exercise_location_off">Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla stále používat údaje o vaší poloze.</string>
+    <string name="record_exercise_location_off">Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla používat informace o vaší poloze, pokud tuto aplikaci používáte nebo vždy.</string>
 
     <!-- Polestar error cases: Precise location is off -->
     <string name="record_exercise_precise_location_off">Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla používat přesné informace o vaší poloze.</string>

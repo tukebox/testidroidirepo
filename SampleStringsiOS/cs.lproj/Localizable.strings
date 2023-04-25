@@ -20,7 +20,7 @@
 "BENEFIT_NO_DESCRIPTION" = "Abyste získali zpětnou vazbu, musíte trénovat alespoň 10 minut nad 50 % vaší vypočtené maximální tepové frekvence.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
-"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Základní trénink a trénink vytrvalosti";
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Základní trénink a trénink vytrvalostiasdasdasd";
 
 /* Sync notification success */
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Synchronizace dat s %@ byla dokončena.";

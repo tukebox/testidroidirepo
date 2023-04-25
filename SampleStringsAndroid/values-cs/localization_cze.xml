@@ -4,10 +4,10 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Upozorněn Toimiikohan samalla repolla? part 2</string>
+    <string name="main_title_notifications">Upozorněn Toimiikohan samalla repolla?</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.</string>
+    <string name="support_item_how_to_sync_polar_v650"> Tsekki Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP</string>

@@ -8,10 +8,10 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Upozorněn Toimiikohan samalla repolla? part 2";
+"MAIN_TITLE_NOTIFICATIONS" = "Upozorněn Toimiikohan samalla repolla?";
 
 /* How to sync: V650 */
-"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.";
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = " Tsekki Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.";
 
 /* % of FTP unit */
 "UNIT_PERCENT_OF_FTP" = "% FTP";

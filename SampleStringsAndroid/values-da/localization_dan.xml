@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Meddelelser</string>
+    <string name="main_title_notifications">Meddelelseradasd</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">For at synkronisere din V650 med Flow-appen skal du vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>

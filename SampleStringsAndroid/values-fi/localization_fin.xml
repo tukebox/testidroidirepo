@@ -103,7 +103,7 @@
     <string name="exercise_tip_e123">Anna palaa! Katso tarkemmat treeniohjeet kellostasi!</string>
 
     <!-- Tip for exercise -->
-    <string name="exercise_tip_e181">Tänään voit olla mestari, joten anna palaa!</string>
+    <string name="exercise_tip_e181">Tänään voit olla mestari, joten anna palaa! asdasd </string>
 
     <!-- Empty state for Sleep Plus Stages -->
     <string name="sleep_plus_stages_empty_state_description">Sleep Plus Stages™ ‑toiminto mittaa unesi määrän ja laadun. Näet joka aamu numeerisen unituloksen (unen tilan), joka kuvaa sitä, miten hyvin nukuit verrattuna unitieteen tämänhetkisen tiedon mukaisiin hyvän yöunen indikaattoreihin.</string>

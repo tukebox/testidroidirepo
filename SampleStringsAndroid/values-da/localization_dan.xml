@@ -7,13 +7,13 @@
     <string name="main_title_notifications">Meddelelseradasd</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">For at synkronisere din V650 med Flow-appen skal du vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">jag For at synkronisere din V650 med Flow-appen skal asdasddu vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% af FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">asdasdDu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
+    <string name="benefit_no_description">Du skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">assadd Grundlæggende og stabil tilstands-træning</string>
@@ -25,7 +25,7 @@
     <string name="sync_notification_device_failed">Datasynkronisering med %1$s mislykkedes. Prøv igen.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Batteristatus efter synkronisering: %1$s %%</string>
+    <string name="devices_battery_status_title">Batteristatusfter synkronisering: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.</string>
@@ -67,13 +67,13 @@
     <string name="tdi_descent">Ned\u00ADstig\u00ADning</string>
 
     <!-- Training display item sport profile settings - vertical speed -->
-    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkal has\u00ADtig\u00ADhed</string>
+    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkal has\u00ADtig\u00ADhed asdasd</string>
 
     <!-- Training display item sport profile settings - left/right balance -->
     <string name="tdi_current_power_left_right_balance">Ven\u00ADstre/\u00ADhøj\u00ADre-ba\u00ADlan\u00ADce</string>
 
     <!-- cardio load -->
-    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risiko for skade og sygdom</b></string>
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risiko  asdasd for skade og sygdom</b></string>
 
     <!-- training load contextual info drawers -->
     <string name="cardio_load_status_question_six">Hvordan sørger jeg for, at min status er effektiv?</string>

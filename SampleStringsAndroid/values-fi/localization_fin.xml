@@ -7,7 +7,7 @@
     <string name="main_title_notifications">Ilmoitukset(SUOMI)</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Jos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
+    <string name="support_item_how_to_sync_polar_v650">asdasdJos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP-arvosta testijuttu</string>

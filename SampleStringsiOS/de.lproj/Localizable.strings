@@ -125,7 +125,7 @@
 "SMART_COACHING_URL" = "https://www.polar.com/de/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
 
 /*Running test - update*/
-"RUNNING_TEST_VO2MAX_INFO" = "Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.";
+"RUNNING_TEST_VO2MAX_INFO" = " asdasdasd Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.";
 
 /* Cycling test: FTP information */
 "CYCLING_TEST_FTP_INFO" = "Der Wert der funktionellen Schwellenleistung (FTP) reflektiert die Intensität, die ein gut trainierter Radfahrer für eine Stunde aufrechterhalten kann.\n\nAktualisiere deinen FTP-Wert, um deine Leistungszonen auf den neuesten Stand zu bringen, was dir dabei hilft, mit der richtigen Intensität zu trainieren.";

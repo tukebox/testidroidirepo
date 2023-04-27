@@ -7,13 +7,13 @@
     <string name="main_title_notifications">Benachrichtigungen</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> tärkeä testi asdasd Um deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option \&apos;Sync. mit Mobilgerät\&apos;.</string>
+    <string name="support_item_how_to_sync_polar_v650"> tärkeä testi Um deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option \&apos;Sync. mit Mobilgerät\&apos;.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Du musst mindestens 10 Minuten mit über 50 % deiner berechneten maximalen Herzfrequenz trainieren, um Feedback zu erhalten.</string>
+    <string name="benefit_no_description">iltatesti Du musst mindestens 10 Minuten mit über 50 % deiner berechneten maximalen Herzfrequenz trainieren, um Feedback zu erhalten. Jups</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Basis- und Herz-Kreislauftraining jou asdasda</string>

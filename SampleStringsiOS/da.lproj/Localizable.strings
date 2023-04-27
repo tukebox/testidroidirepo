@@ -77,7 +77,7 @@
 "TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Ven\U00ADstre/\U00ADhøj\U00ADre-ba\U00ADlan\U00ADce";
 
 /*cardio load*/
-"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Risiko for skade og sygdom</b>";
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Risiko  asdasd for skade og sygdom</b>";
 
 /*training load contextual info drawers*/
 "CARDIO_LOAD_STATUS_QUESTION_SIX" = "Hvordan sørger jeg for, at min status er effektiv?";

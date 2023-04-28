@@ -7,13 +7,13 @@
     <string name="main_title_notifications">Benachrichtigungen</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> tärkeä testi Um deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option \&apos;Sync. mit Mobilgerät\&apos;.</string>
+    <string name="support_item_how_to_sync_polar_v650"> asdasdUm deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option \&apos;Sync. mit Mobilgerät\&apos;.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">iltatesti Du musst mindestens 10 Minuten mit über 50 % deiner berechneten maximalen Herzfrequenz trainieren, um Feedback zu erhalten. Jups</string>
+    <string name="benefit_no_description">iltatesti tesDu musst mindestens 10 Minuten mit über 50 % deiner berechneten maximalen Herzfrequenz trainieren, um Feedback zu erhalten. Jups</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Basis- und Herz-Kreislauftraining jou asdasda</string>
@@ -121,7 +121,7 @@
     <string name="smart_coaching_url">https://www.polar.com/de/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
-    <string name="running_test_vo2max_info">Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.</string>
+    <string name="running_test_vo2max_info"> asdasdasd Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.</string>
 
     <!-- Cycling test: FTP information -->
     <string name="cycling_test_ftp_info">Der Wert der funktionellen Schwellenleistung (FTP) reflektiert die Intensität, die ein gut trainierter Radfahrer für eine Stunde aufrechterhalten kann.\n\nAktualisiere deinen FTP-Wert, um deine Leistungszonen auf den neuesten Stand zu bringen, was dir dabei hilft, mit der richtigen Intensität zu trainieren.</string>

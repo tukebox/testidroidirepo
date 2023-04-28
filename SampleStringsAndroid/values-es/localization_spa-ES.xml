@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Notificacionesjusp : coma el estas </string>
+    <string name="main_title_notifications">Notificacionesjusp : coma el estas asdasd</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">Toimiikohan samalla repolla? Para sincronizar tu V650 con la app Flow, selecciona \&apos;Sincronizar con móvil\&apos; en el menú lateral de tu V650.</string>
@@ -22,7 +22,7 @@
     <string name="sync_notification_device_success">Sincronización de datos con tu %1$s completada.</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Fallo de sincronización de datos con tu %1$s. Inténtalo de nuevo.</string>
+    <string name="sync_notification_device_failed">Fallo de sincronización de datos con tu %1$s. Inténtalo de nuevo.asdasd </string>
 
     <!-- Battery status title in devices view -->
     <string name="devices_battery_status_title">Estado de la batería al sincronizarse: %1$s %%</string>

@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- localization_jpn.xml
-    PolarFlow
-
-    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
-    
-    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
-
 <resources>
 
+    <!--  -->
     <!-- Notifications main title -->
     <string name="main_title_notifications">お知らせ</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">V650をFlowアプリと同期するには、V650のサイドメニューから%1$sを選択します。</string>
+    <string name="support_item_how_to_sync_polar_v650"> JOU V650をFlowアプリと同期するには、V650のサイドメニューから\&apos;モバイルと同期\&apos;を選択します。</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">％FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">フィードバックを表示するには、最大心拍数50％以上でのトレーニングを、少なくとも10分間以上行う必要があります。</string>
+    <string name="benefit_no_description">フィードバックを表示するには、最大心拍数50％以上でのトレーニングを、少なくとも10分間以上行う必要があります。asdasd</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">基礎と安定状態のトレーニング</string>
@@ -31,7 +25,7 @@
     <string name="sync_notification_device_failed">%1$sとのデータの同期に失敗しました。もう一度やり直してください。</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">同期後のバッテリー残量： %1$s</string>
+    <string name="devices_battery_status_title">同期後のバッテリー残量： %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">設定中はスマートフォンとデバイスのBluetoothをオンにし、お互いをそばに置いてください。またコンピュータから設定を行うこともできます。</string>
@@ -40,10 +34,10 @@
     <string name="balance_weight_differs_more_10">測定した体重（%1$s）は、前回の体重（%2$s）に比べて10 %%を超える差異が見られます。</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">%1$s (%2$s)の更新情報があります。</string>
+    <string name="sensor_fwu_startup_description">%1$sの更新情報があります。\n更新には数分かかります。</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">スピード/ペースゾーンを利用すると、簡単にトレーニング強度を選択して、モニタリングできます。ここでは、デフォルトのゾーンが表示されています。\n\nカスタムゾーンを選択すると、すべてのリミットが変更できます。</string>
@@ -55,10 +49,10 @@
     <string name="ftu_save_sync">保存して同期</string>
 
     <!-- Training session list view search bar placeholder text -->
-    <string name="training_session_list_view_filter_placeholder_text">タイプ別に検索、’または絞り込む</string>
+    <string name="training_session_list_view_filter_placeholder_text">タイプ別に検索、\’または絞り込む</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">次の内容に関し同意します： <b>Polarが</b> 「Polarプライバシーに関するお知らせ」に機密データ対象内容として記載している、心拍数などの、個人の機密に関わるデータを収集及び使用することに同意します。 </string>
+    <string name="consents_sensitive_data_checkbox">私はPolarが、Polarプライバシーに関するお知らせに機密データ対象内容として記載している、心拍数やその他の健康データなどの、<b>個人の機密に関わるデータを収集\’および使用すること</b>に同意します。</string>
 
     <!-- Training display item sport profile settings - time of day -->
     <string name="tdi_time_of_day">時刻</string>
@@ -79,7 +73,7 @@
     <string name="tdi_current_power_left_right_balance">左/右バランス</string>
 
     <!-- cardio load -->
-    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>外傷 \&amp; 病気のリスク</b></string>
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>外傷 \\&amp; 病気のリスク</b></string>
 
     <!-- training load contextual info drawers -->
     <string name="cardio_load_status_question_six">私のステータスをさらに効果的にするにはどうすればよいですか？</string>
@@ -100,7 +94,7 @@
     <string name="nightly_recharge_status_popup_ans_charge_para2">ANS は、身体の2種類の状態をつかさどります：一つは闘争または逃走反応時、もう一つは休息・消化時です。自律神経ステータスの値が高いほど、<b>通常のレベルと</b>比較した時に、ANSにおける闘争または逃走反応の割合が高めであると考えられます。</string>
 
     <!-- Tip for exercise -->
-    <string name="exercise_tip_e73">今日はエクササイズに励むといいでしょう。但し頑張りすぎると、身体が\&quot;NO!\&quot;と悲鳴をあげるかもしれませんよ。</string>
+    <string name="exercise_tip_e73">今日はエクササイズに励むといいでしょう。但し頑張りすぎると、身体が\&quot;NO! \&quot;と悲鳴をあげるかもしれませんよ。</string>
 
     <!-- Tip for exercise -->
     <string name="exercise_tip_e92">今日は100％力がみなぎる感じではないかもしれませんが、トレーニングをしても大丈夫です。</string>
@@ -124,10 +118,10 @@
     <string name="fav_lib_favs_on_device_header">%1$s のお気に入り（%2$s/%3$s）</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-    <string name="smart_coaching_url">https://www.polar.com/ja/smart-coaching?utm_source=flow_featureguidance_android\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
+    <string name="smart_coaching_url">https://www.polar.com/ja/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
-    <string name="running_test_vo2max_info">Your <b>最大酸素摂取量（VO2max）</b>とは、最大限の身体能力を発揮している時に、あなたの身体が最大限に摂取できる酸素の量を示します。\n\n精度と\&apos;有用性の高いデータを抽出するため、VO2max値の更新を行ってください。VO2max値は、カロリーに関わるすべての数値に影響を及ぼします。</string>
+    <string name="running_test_vo2max_info">Your <b>最大酸素摂取量（VO2max）</b>とは、最大限の身体能力を発揮している時に、あなたの身体が最大限に摂取できる酸素の量を示します。\n\n精度と\’有用性の高いデータを抽出するため、VO2max値の更新を行ってください。VO2max値は、カロリーに関わるすべての数値に影響を及ぼします。</string>
 
     <!-- Cycling test: FTP information -->
     <string name="cycling_test_ftp_info">機能的体力閾値（FTP）は、トレーニングを積んだサイクリストが1時間維持できる運動強度です。パワーゾーンを現時点のコンディションに合わせるために、FTP値を更新してください。そうすることで的確な強度でトレーニングを進めることができます。</string>
@@ -139,22 +133,22 @@
     <string name="cycling_test_info3">サイクリングのパフォーマンスを継続してモニタリングし、あなた個人のパワーゾーンを把握するためにも、このテストは役立つでしょう。機能的体力閾値（FTP）の結果を体重で割った値で、他の同性サイクリストとの比較もできます。設定で体重の更新を忘れないようにして下さい。</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$s:\n%2$sで完了</string>
+    <string name="ps_diary_complete_training_time">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s %3$sで</string>
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$s:\n%2$s %3$sで</string>
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar error cases: Location is off -->
-    <string name="record_exercise_location_off">トレーニング中にスピードと距離をチェックするには、Flowが位置情報に常にアクセスできるよう設定を許可しておく必要があります。</string>
+    <string name="record_exercise_location_off">トレーニング中にスピードと距離をチェックするには、常時またはアプリ使用中に、Flowが正確な位置情報を把握できるよう設定を許可にしておく必要があります。</string>
 
     <!-- Polestar error cases: Precise location is off -->
     <string name="record_exercise_precise_location_off">トレーニング中にスピードと距離をチェックするには、Flowが正確な位置情報を把握できるよう設定を許可しておく必要があります。</string>

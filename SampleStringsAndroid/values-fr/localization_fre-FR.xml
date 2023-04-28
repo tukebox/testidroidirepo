@@ -4,16 +4,16 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Notifications</string>
+    <string name="main_title_notifications">Notifications fransuaa</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">asd Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% de FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Vous devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.</string>
+    <string name="benefit_no_description">Vous devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires. ei</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Entraînement de base et régulier testia</string>

@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- localization_kor.xml
-    PolarFlow
-
-    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
-    
-    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
-
 <resources>
 
+    <!--  -->
     <!-- Notifications main title -->
     <string name="main_title_notifications">알림</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">V650과 Flow 앱을 동기화하려면, V650의 사이드 메뉴에서 %1$s를 선택하십시오.</string>
+    <string name="support_item_how_to_sync_polar_v650">V650과 Flow 앱을 동기화하려면, V650의 사이드 메뉴에서 \&quot;모바일과의 동기화\&quot;를 선택하십시오.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">FTP의 %</string>
+    <string name="unit_percent_of_ftp">FTP %</string>
 
     <!-- Benefit no description -->
     <string name="benefit_no_description">훈련에 관한 피드백을 받으시려면 계산된 최대 심박수 수치의 50% 이상의 수치로 적어도 10분 이상 훈련하셔야 합니다.</string>
@@ -25,13 +19,13 @@
     <string name="benefit_value_basic_steady_state_basic">기본 및 스테디 상태 훈련</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">%1$s와(과) 데이터 동기화를 완료했습니다.</string>
+    <string name="sync_notification_device_success">%1$s와(과) 데이터 동기화를 완료했습니다.asdasd</string>
 
     <!-- Sync notification failed -->
     <string name="sync_notification_device_failed">%1$s와(과) 데이터를 동기화하는 데 실패했습니다. 다시 시도하십시오.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">동기화 시 배터리 상태: %1$s</string>
+    <string name="devices_battery_status_title">동기화 시 배터리 상태: %1$s%%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">전화기와 장치 모두에 블루투스가 켜져 있는지 확인하고 설정을 하는 동안 서로 가까운 상태로 유지해 주십시오. 또는 원하실 경우 컴퓨터를 이용하여 설정하실 수 있습니다.</string>
@@ -40,10 +34,10 @@
     <string name="balance_weight_differs_more_10">방금 측정한 체중(%1$s)과 이전 체중(%2$s)의 차이가 10% 이상입니다.</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">%1$s (%2$s)의 사용 가능한 업데이트가 있습니다.</string>
+    <string name="sensor_fwu_startup_description">%1$s의 사용 가능한 업데이트가 있습니다.\n업데이트에 몇 분 정도 소요될 수 있습니다.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">속도/페이스 구역을 통해 트레이닝 강도를 쉽게 선택하고 모니터링할 수 있습니다. 여기에 나타난 구역은 디폴트 구역입니다.\n\n사용자 맞춤 구역을 선택하면 모든 한계를 변경할 수 있습니다.</string>
@@ -58,7 +52,7 @@
     <string name="training_session_list_view_filter_placeholder_text">유형별 검색 혹은 필터</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">본인은 <b>Polar 개인 정보 보호 공지에 설명된 대로</b> 심박수 등 본인의 민감한 개인 데이터를 Polar가 수집하고 처리할 수 있다는 데 동의합니다.</string>
+    <string name="consents_sensitive_data_checkbox">본인은 Polar 개인 정보 보호 공지에 설명된 대로 심박수 등 <b>본인의 민감한 개인 데이터를 Polar가 수집하고 처리할 수 있다</b>는 데 동의합니다.</string>
 
     <!-- Training display item sport profile settings - time of day -->
     <string name="tdi_time_of_day">시간</string>
@@ -124,7 +118,7 @@
     <string name="fav_lib_favs_on_device_header">%1$s의 선호사항(%2$s/%3$s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
     <string name="running_test_vo2max_info"><b>최대 산소 섭취량(VO2max)</b>은 최대치로 노력할 때 신체가 산소를 소모할 수 있는 최대 능력입니다.\n\n당사가 가장 정확하고 관련 있는 데이터를 제공해 드릴 수 있도록 VO2max를 업데이트하십시오. VO2max는 칼로리와 관련된 모든 계산에 영향을 미칩니다.</string>
@@ -139,22 +133,22 @@
     <string name="cycling_test_info3">테스트를 사용하여 사이클링 성과를 추적하고 개인적 파워 구역을 정의합니다. FTP 결과를 체중으로 나누면 사용자와 동일한 성별의 다른 사이클리스트들과 비교할 수 있습니다. 설정에서 체중을 반드시 업데이트하세요.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_time">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s, %3$s 소요</string>
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@, %3$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$s:\n%2$s, %3$s 소요</string>
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@, %3$@</string>
 
     <!-- Polestar error cases: Location is off -->
-    <string name="record_exercise_location_off">트레이닝 동안 속도 및 거리를 확인하려면 Flow가 항상 위치에 액세스할 수 있도록 해야 합니다.</string>
+    <string name="record_exercise_location_off">트레이닝 동안 속도 및 거리를 확인하려면 앱을 사용하는 동안 또는 항상 Flow가 정확한 위치를 사용하도록 해야 합니다.</string>
 
     <!-- Polestar error cases: Precise location is off -->
     <string name="record_exercise_precise_location_off">트레이닝 동안 속도 및 거리를 확인하려면 Flow가 정확한 위치를 사용하도록 해야 합니다.</string>
@@ -187,7 +181,7 @@
     <string name="boost_from_sleep_accuracy_disclaimer">지난 7일 동안 매일 밤마다 얻은 수면 데이터가 있으면 예보가 유효합니다</string>
 
     <!-- Alertness-related info screens -->
-    <string name="trends_info_screen_one_text_one"><b>촉진 점수</b> 동향은 최근 신체활동 촉진에 수면이 얼마나 도움이 되었는지 보여줍니다. 점수는 <i>우수</i>, <i>양호</i>, <i>보통</i>, <i>미미</i>일 수 있으며 \'우수\'는 양질의 수면이 주는 이점을 모두 활용해 하루를 잘 보낼 수 있음을 의미합니다. 수면이 매우 부족한 경우 등에는 촉진 점수가 \'미미\'할 수 있습니다.</string>
+    <string name="trends_info_screen_one_text_one"><b>촉진 점수</b> 동향은 최근 신체활동 촉진에 수면이 얼마나 도움이 되었는지 보여줍니다. 점수는 <i>우수</i>, <i>양호</i>, <i>보통</i>, <i>미미</i>일 수 있으며 \&apos;우수\&apos;는 양질의 수면이 주는 이점을 모두 활용해 하루를 잘 보낼 수 있음을 의미합니다. 수면이 매우 부족한 경우 등에는 촉진 점수가 \&apos;미미\&apos;할 수 있습니다.</string>
 
     <!-- Alertness-related info screens -->
     <string name="trends_info_screen_two_text_two">평균 <b>수면 시간</b>이 <i>선호하는 수면 시간</i> 설정에 근접하지 않은 경우 다음 사항을 고려하면 도움이 될 수 있습니다.\n\n- 수면이 부족할 수 있는지 여부\n\n- 실제 수면 시간 필요에 맞게 설정을 조금 변경해야 하는지 여부</string>

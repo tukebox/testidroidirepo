@@ -7,13 +7,13 @@
     <string name="main_title_notifications">Meddelelseradasd</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> asasd Testi jag For at synkronisere din V650 med Flow-appen skal asdasddu vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
+    <string name="support_item_how_to_sync_polar_v650"> Testi jag For at synkronisere din V650 med Flow-appen skal asdasddu vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% af FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Du skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
+    <string name="benefit_no_description">Timestamp . Du skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SKRÄÄKKE dö</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">assadd Grundlæggende og stabil tilstands-træning</string>

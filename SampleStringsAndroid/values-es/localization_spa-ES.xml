@@ -7,13 +7,13 @@
     <string name="main_title_notifications">Notificacionesjusp : coma el estas </string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">asdasdaToimiikohan samalla repolla? Para sincronizar tu V650 con la app Flow, selecciona \&apos;Sincronizar con móvil\&apos; en el menú lateral de tu V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">Toimiikohan samalla repolla? Para sincronizar tu V650 con la app Flow, selecciona \&apos;Sincronizar con móvil\&apos; en el menú lateral de tu V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% de FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Necesitas entrenar al menos 10 minutos por encima del 50% de tu frecuencia cardíaca máxima calculada para obtener feedback.</string>
+    <string name="benefit_no_description">Time stamppi testiNecesitas entrenar al menos 10 minutos por encima del 50% de tu frecuencia cardíaca máxima calculada para obtener feedback.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Entrenamiento básico y por ritmo constante</string>
@@ -34,7 +34,7 @@
     <string name="balance_weight_differs_more_10">El peso que acabas de medir (%1$s) difiere en más de un 10 %% de tu peso anterior (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">asdasdThird-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
     <string name="sensor_fwu_startup_description">Hay una actualización disponible para %1$s.\nEl proceso de actualización puede tardar unos minutos.</string>

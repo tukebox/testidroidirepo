@@ -4,22 +4,22 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Teatised Testi5</string>
+    <string name="main_title_notifications">Teatised</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Eesti, eesti, eesti, kaipaan sinne perkeleesti V650 sünkroonimiseks Polar Flow\&apos; rakendusega vali V650 külgmenüüst Sünkrooni mobiiliga.</string>
+    <string name="support_item_how_to_sync_polar_v650">V650 veekasi sünkroonimiseks Polar Flow\&apos; rakendusega vali V650 külgmenüüst Sünkrooni mobiiliga.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP-st</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">asdasdTagasiside saamiseks kokkerör pead treenima vähemalt 10 minutit nii, et südame löögisagedus oleks rohkem kuasdi 50% arvutatud löögisageduse maksimumist.</string>
+    <string name="benefit_no_description">onko unkari Tagasiside saamiseks pead treenima vähemalt 10 minutit nii, et südame löögisagedus oleks rohkem kui 50% arvutatud löögisageduse maksimumist.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Põhi- ja püsivustreening</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">asdasdAndmete sünkroonimine teenusega %1$s on lõpetatud. On mai maind</string>
+    <string name="sync_notification_device_success">Andmete sünkroonimine teenusega %1$s on lõpetatud.</string>
 
     <!-- Sync notification failed -->
     <string name="sync_notification_device_failed">Andmete sünkroonimine teenusega %1$s ebaõnnestus. Palun proovi uuesti.</string>
@@ -34,10 +34,10 @@
     <string name="balance_weight_differs_more_10">Sinu äsja mõõdetud kaal (%1$s) erineb sinu eelmisest kaalust (%2$s) rohkem kui 10%%.</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro"> Onko viro kiro sanatanaKolmanda osapoole litsentsid\n\nPolar Flow kasutab teatud kolmanda osapoole avatud lähtekoodiga tarkvara. Allpool näed, millist tarkvara oleme kasutanud, samuti kehtivaid autoriõiguse ja muid teatisi, lubasid ja kinnitusi.\n\nTäname arendajaid.</string>
+    <string name="license_intro">Kolmanda osapoole litsentsid\n\nPolar Flow kasutab teatud kolmanda osapoole avatud lähtekoodiga tarkvara. Allpool näed, millist tarkvara oleme kasutanud, samuti kehtivaid autoriõiguse ja muid teatisi, lubasid ja kinnitusi.\n\nTäname arendajaid.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Sinu asdseadme %1$s jaoks on saadaval uuendus.\nUuendamine võib võtta paar minutit.</string>
+    <string name="sensor_fwu_startup_description">Sinu seadme %1$s jaoks on saadaval uuendus.\nUuendamine võib võtta paar minutit.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Kiiruse/tempo tsoonide abil saad hõlpsalt valida ja jälgida treeningu intensiivsust. Tsoonid, mida siin näed, on vaiketsoonid.\n\nKui valid Kohandatud tsoonid, saad kõiki piire muuta.</string>

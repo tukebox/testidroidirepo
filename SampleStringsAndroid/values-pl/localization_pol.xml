@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- localization_pol.xml
-    PolarFlow
-
-    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
-    
-    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
-
 <resources>
 
+    <!--  -->
     <!-- Notifications main title -->
     <string name="main_title_notifications">Powiadomienia</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Aby zsynchronizować V650 z aplikacją Flow, wybierz opcję %1$s z poziomu bocznego menu V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">Aby zsynchronizować V650 z aplikacją Flow, wybierz opcję \&apos;Synchronizuj z tel.\&apos; z poziomu bocznego menu V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP</string>
@@ -22,16 +16,16 @@
     <string name="benefit_no_description">Aby poznać informacje na temat treningu, musisz ćwiczyć przez co najmniej 10 minut z intensywnością powyżej 50% Twojego maksymalnego tętna.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Trening podstawowy i ogólnorozwojowy</string>
+    <string name="benefit_value_basic_steady_state_basic">asdasdTrening podstawowy i ogólnorozwojowy</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">Zakończono synchronizowanie danych z %1$s.</string>
+    <string name="sync_notification_device_success">asdasdZakończono synchronizowanie danych z %1$s.</string>
 
     <!-- Sync notification failed -->
     <string name="sync_notification_device_failed">Synchronizacja danych z %1$s nieudana. Spróbuj ponownie.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Poziom baterii podczas synchronizacji: %1$s</string>
+    <string name="devices_battery_status_title">Poziom baterii podczas synchronizacji: %1$s%%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Upewnij się, że funkcja Bluetooth na telefonie i urządzeniu jest włączona i podczas konfiguracji trzymaj oba urządzenia blisko siebie. Jeśli chcesz, możesz też przeprowadzić konfigurację z poziomu komputera.</string>
@@ -40,10 +34,10 @@
     <string name="balance_weight_differs_more_10">Zmierzona przed chwilą masa ciała (%1$s) różni się o ponad 10%% od poprzednio zmierzonej masy (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Dla Twojego urządzenia %1$s (%2$s) dostępna jest aktualizacja</string>
+    <string name="sensor_fwu_startup_description">Dla Twojego urządzenia %1$s jest dostępna aktualizacja.\n Może potrwać kilka minut.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Dzięki strefom prędkości/tempa możesz łatwo wybierać i monitorować intensywność treningu. Strefy, które widzisz, są strefami domyślnymi.\n\nJeśli wybierzesz Strefy niestandardowe, wszystkie limity mogą zostać zmienione.</string>
@@ -55,13 +49,13 @@
     <string name="ftu_save_sync">Zapisz i synchronizuj</string>
 
     <!-- Training session list view search bar placeholder text -->
-    <string name="training_session_list_view_filter_placeholder_text">Wyszukaj lub filtruj</string>
+    <string name="training_session_list_view_filter_placeholder_text">Wyszukaj lub filtruj według rodzajów</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">Zgadzam się <b>na zbieranie i przechowywanie przez Polar moich szczególnie chronionych danych,</b> takich jak dane o tętnie, zgodnie z Oświadczeniem o ochronie prywatności w firmie Polar.</string>
+    <string name="consents_sensitive_data_checkbox">Wyrażam zgodę na <b>zbieranie i przetwarzanie przez Polar moich szczególnie chronionych danych osobowych</b>, takich jak dane dotyczące tętna, zgodnie z Oświadczeniem o ochronie prywatności w firmie Polar.</string>
 
     <!-- Training display item sport profile settings - time of day -->
-    <string name="tdi_time_of_day">Godz\u00ADina</string>
+    <string name="tdi_time_of_day">Po\u00ADra dnia</string>
 
     <!-- Training display item sport profile settings - time in pace zone -->
     <string name="tdi_time_in_pace_zone">Czas w stre\u00ADfie tem\u00ADpa</string>
@@ -124,7 +118,7 @@
     <string name="fav_lib_favs_on_device_header">Ulubione z %1$s (%2$s/%3$s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
     <string name="running_test_vo2max_info"><b>Próg tlenowy (VO2max)</b> to maksymalna zdolność organizmu do zużywania tlenu podczas maksymalnego wysiłku.\n\nZaktualizuj swoją wartość VO2max, abyśmy mogli dostarczać Ci dokładnych i przydatnych informacji. VO2max wpływa na wszystkie obliczenia, które dotyczą kalorii.</string>
@@ -139,22 +133,22 @@
     <string name="cycling_test_info3">Korzystaj z testu, aby monitorować swoje kolarskie rezultaty i określić indywidualne strefy mocy. Twój wynik FTP podzielony przez wagę umożliwia porównanie go z wynikami innych kolarzy tej samej płci. Pamiętaj, aby zaktualizować swoją wagę w Ustawieniach.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$s:\nw %2$s</string>
+    <string name="ps_diary_complete_training_time">%1$@:\nw %2$@</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s w %3$s</string>
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ w %3$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$s:\n%2$s w %3$s</string>
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ w %3$@</string>
 
     <!-- Polestar error cases: Location is off -->
-    <string name="record_exercise_location_off">Jeśli chcesz otrzymywać dane prędkości i dystansu podczas treningu, musisz zezwolić aplikacji Polar Flow na ciągły dostęp do lokalizacji.</string>
+    <string name="record_exercise_location_off">Jeśli chcesz otrzymywać dane prędkości i dystansu podczas treningu, musisz zezwolić aplikacji Polar Flow na dostęp do Twojej lokalizacji podczas korzystania z aplikacji lub zawsze.</string>
 
     <!-- Polestar error cases: Precise location is off -->
     <string name="record_exercise_precise_location_off">Jeśli chcesz otrzymywać dane prędkości i dystansu podczas treningu, musisz zezwolić aplikacji Polar Flow na dostęp do Twojej dokładnej lokalizacji.</string>

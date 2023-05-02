@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- localization_hun.xml
-    PolarFlow
-
-    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
-    
-    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
-
 <resources>
 
+    <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Értesítések</string>
+    <string name="main_title_notifications">Értesítések HU!</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a(z) %1$s lehetőséget a V650 óra oldalsó menüjéből.</string>
+    <string name="support_item_how_to_sync_polar_v650">A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillal” lehetőséget a V650 óra oldalsó menüjéből.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">Funkcionális teljesítményküszöb %-a</string>
+    <string name="unit_percent_of_ftp">FTP%</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Ahhoz, hogy visszajelzést kapj, legalább 10 percet kell edzened a számított maximális pulzusérték 50%-a felett.</string>
+    <string name="benefit_no_description">Ahhoz, hogy visszajelzést kapj, legalább 10 percet kell edzened a számított maximális pulzus 50%-a felett.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Alap- és tartós edzés</string>
@@ -31,7 +25,7 @@
     <string name="sync_notification_device_failed">Nem sikerült az adatszinkronizálás a következővel: %1$s. Kérjük, próbáld meg újra.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Akkumulátor-állapot szinkronizáláskor: %1$s</string>
+    <string name="devices_battery_status_title">Akkumulátor-állapot szinkronizáláskor: %1$s%%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Győződj meg arról, hogy mind a telefonon, mind az eszközön be van kapcsolva a Bluetooth, és a beállítás során tartsd őket közel egymáshoz. Másik lehetőségként a beállítást a számítógépeden is elvégezheted, ha szeretnéd.</string>
@@ -43,7 +37,7 @@
     <string name="license_intro">Harmadik féltől származó licencek\n\nA Polar Flow bizonyos, harmadik felektől származó nyílt forráskódú szoftvereket használ. Az alábbiakban megnézheted, hogy milyen szoftvereket használunk, és megnézheted a hozzájuk kapcsolódó szerzői jogi és egyéb megjegyzéseket, engedélyeket és visszaigazolásokat.\n\nKöszönettel tartozunk a fejlesztőknek.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Frissítés érhető el a következőhöz: %1$s (%2$s)</string>
+    <string name="sensor_fwu_startup_description">Frissítés érhető el a(z) %1$s eszközhöz.\nA frissítés eltarthat néhány percig.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">A sebesség/tempó zónákkal egyszerűen kiválaszthatod és figyelemmel követheted az edzési intenzitásokat. Az itt látható zónák Alapértelmezett zónák.\n\nHa az Egyéni zónákat választod, akkor az összes határérték módosítható.</string>
@@ -100,7 +94,7 @@
     <string name="nightly_recharge_status_popup_ans_charge_para2">Az ANS kétfajta cselekvéssorozatot irányít, amit a szervezet elindíthat: hogy az „üss vagy fuss”, vagy az „pihenés és emésztés” ideje jött-e el. Minél magasabb az ANS-állapot, annál inkább dominál a pihenés és emésztés rész az ANS-állapotban az <b>általános szinthez</b> képest.</string>
 
     <!-- Tip for exercise -->
-    <string name="exercise_tip_e73">A mai nap megfelelő a gyakorlatokhoz, de ne terheld túl magad, ha a szervezeted „nemet” mond.</string>
+    <string name="exercise_tip_e73">A mai nap megfelelő a gyakorlatokhoz, de ne terheld túl magad, ha a szervezeted nemet mond.</string>
 
     <!-- Tip for exercise -->
     <string name="exercise_tip_e92">Ma edzhetsz, még akkor is, ha úgy érzed, hogy nem vagy 100%-os az edzéshez.</string>
@@ -124,13 +118,13 @@
     <string name="fav_lib_favs_on_device_header">Kedvencek itt: %1$s (%2$s/%3$s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
     <string name="running_test_vo2max_info">A <b>maximális oxigénfelvétel (VO2max)</b> a szervezeted maximális oxigénfogyasztási kapacitása maximális erőkifejtés esetén.\n\nFrissítsd a VO2max értékét annak érdekében, hogy a legpontosabb és legrelevánsabb adatokat biztosíthassuk a számodra. A VO2max a kalóriákat érintő összes számításra hatással van.</string>
 
     <!-- Cycling test: FTP information -->
-    <string name="cycling_test_ftp_info">A funkcionális teljesítményküszöb (FTP) értéke azt az intenzitást tükrözi, amelyet egy jó edzettségi szinten lévő kerékpáros egy órán át képes fenntartani.\n\nFrissítsd az FTP értékét, hogy teljesítményzónáid naprakészek legyenek, ami segít abban, hogy a megfelelő intenzitással végezd az edzést. Ha korábban manuálisan módosítottad a pulzuszónákat, akkor azokat nem változtatjuk meg.</string>
+    <string name="cycling_test_ftp_info">A funkcionális teljesítményküszöb (FTP) értéke azt az intenzitást tükrözi, amelyet egy jó edzettségi szinten lévő kerékpáros egy órán át képes fenntartani.\n\nFrissítsd az FTP értékét, hogy teljesítmény zónád naprakész legyen, ami segít abban, hogy a megfelelő intenzitással végezd az edzést.</string>
 
     <!-- Cycling test info pop-up 2 -->
     <string name="cycling_test_info2">A legmegbízhatóbb eredmények elérése érdekében győződj meg arról, hogy ugyanazon teljesítményszinten maradj a teszt során. Ha lassítasz, kevésbé megbízható eredményeket fogsz kapni.\n\nAz első teszted során a háttér-információidon alapuló teljesítménycéllal nyújtunk útmutatást. Ez segít állandó teljesítményt fenntartani a teszt során. A teszt megismétlésekor a célod alapjául a korábbi eredményeid szolgálnak.</string>
@@ -139,22 +133,22 @@
     <string name="cycling_test_info3">Használd ezt a tesztet a kerékpározási teljesítményed nyomon követéséhez és az egyedi teljesítményzónák meghatározásához. A testsúlyoddal elosztott funkcionális teljesítményküszöb eredmények segítségével összehasonlíthatod magad a veled azonos nemű más kerékpárosokkal. Ne felejtsd el frissíteni testsúlyodat a beállításokban.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$s:\n %2$s</string>
+    <string name="ps_diary_complete_training_time">%1$@:\n %2$@</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar error cases: Location is off -->
-    <string name="record_exercise_location_off">Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy hozzáférjen tartózkodási helyedhez.</string>
+    <string name="record_exercise_location_off">Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy az alkalmazás használata közben vagy mindig hozzáférjen tartózkodási helyedhez.</string>
 
     <!-- Polestar error cases: Precise location is off -->
     <string name="record_exercise_precise_location_off">Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy használja a pontos tartózkodási helyedet.</string>

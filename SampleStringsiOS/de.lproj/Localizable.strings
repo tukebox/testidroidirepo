@@ -11,7 +11,7 @@
 "MAIN_TITLE_NOTIFICATIONS" = "asdasdBenachrichtigungenasdasd hahaha ";
 
 /* How to sync: V650 */
-"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = " SAKSA Um dasdasdeinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option 'Sync. asdasdmit Mobilgerät'.";
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = " SAKSA Um deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option 'Sync. asdasdmit Mobilgerät'.";
 
 /* % of FTP unit */
 "UNIT_PERCENT_OF_FTP" = "% FTP";
@@ -35,7 +35,7 @@
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Stelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.";
 
 /* Balance weight measurement*/
-"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Das Gewicht, das du gerade gemessen hast (%@), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%@).";
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Das Gewicht, das du gerade gemesen hast (%@), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%@).";
 
 /* into text for licenses */
 "LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";

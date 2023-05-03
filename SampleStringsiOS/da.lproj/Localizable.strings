@@ -8,7 +8,7 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Meddelelseradasd";
+"MAIN_TITLE_NOTIFICATIONS" = "Meddelelseradasd asd";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = " djag For at synkronisere din V650 med Flow-appen skal asdasddu vælge 'Synkroniser med mobil' fra sidemenuen af din V650.";
@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "% af FTP";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "Timestamp tanska. asdasdDu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SasdasdKRÄÄKKE dö";
+"BENEFIT_NO_DESCRIPTION" = "Timestamp tanska. dDu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SasdasdKRÄÄKKE dö";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "asd Grundlæggende og stabil tilstands-træning";

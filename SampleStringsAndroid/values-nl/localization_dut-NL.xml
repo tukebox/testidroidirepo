@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <!-- localization_dut-NL.xml
-    PolarFlow
-
-    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
-    
-    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
-
 <resources>
 
+    <!--  -->
     <!-- Notifications main title -->
     <string name="main_title_notifications">Meldingen</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Selecteer %1$s in het zij-menu van je V650 om je V650 te synchroniseren met de Flow app.</string>
+    <string name="support_item_how_to_sync_polar_v650">Selecteer \&apos;asdasd Synchroniseren met mobiel\&apos; in het zij-menu van je V650 om je V650 te synchroniseren met de Flow app.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% van FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Je moet ten minste 10 minuten trainen boven 50% van je berekende maximale hartslagwaarde om feedback te krijgen.</string>
+    <string name="benefit_no_description">Je moet minstens 10 minuten boven 50% van je berekende maximale hartslag trainen om feedback over het trainingseffect te ontvangen.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Basis- en constante training</string>
@@ -31,7 +25,7 @@
     <string name="sync_notification_device_failed">Gegevens synchroniseren met %1$s is mislukt. Probeer het opnieuw.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Batterijstatus bij synchronisatie: %1$s</string>
+    <string name="devices_battery_status_title">Batterijstatus bij synchronisatie: %1$s%%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Zorg ervoor dat Bluetooth is ingeschakeld op je telefoon en het apparaat, en houd ze bij elkaar in de buurt tijdens de configuratie. Je kunt de configuratie eventueel ook op je computer uitvoeren.</string>
@@ -40,16 +34,16 @@
     <string name="balance_weight_differs_more_10">Tussen je zojuist gemeten gewicht (%1$s) en je vorige gewicht (%2$s) zit meer dan 10%% verschil.</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Er is een update beschikbaar voor je %1$s (%2$s)</string>
+    <string name="sensor_fwu_startup_description">Er is een update beschikbaar voor je %1$s.\nHet bijwerken kan enkele minuten duren.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Met de snelheid-/tempozones kun je eenvoudig je trainingsintensiteiten selecteren en bewaken. De zones die je hier ziet, zijn de standaardzones.\n\nAls je Aangepaste zones kiest, kunnen alle limieten worden gewijzigd.</string>
 
     <!-- Sport profiles training display item -->
-    <string name="sport_profiles_training_display_item_power_lr_balance">Links-rechtsbalans</string> <!--CURRENT_POWER_LEFT_RIGHT_BALANCE = 57; // GUITAR ARCHER-->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Links-rechtsbalans</string>
 
     <!-- FTU Save and sync -->
     <string name="ftu_save_sync">Opslaan en synchroniseren</string>
@@ -58,7 +52,7 @@
     <string name="training_session_list_view_filter_placeholder_text">Zoek of filter op type</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">Ik ga akkoord <b>dat Polar mijn gevoelige persoonsgegevens, zoals hartslaggegevens, kan verzamelen en verwerken,</b> zoals beschreven in het Privacybeleid van Polar.</string>
+    <string name="consents_sensitive_data_checkbox">Ik ga ermee akkoord dat <b>Polar mijn gevoelige persoonsgegevens, zoals hartslaggegevens, kan verzamelen en verwerken</b>, zoals beschreven in het Privacybeleid van Polar.</string>
 
     <!-- Training display item sport profile settings - time of day -->
     <string name="tdi_time_of_day">Tijd</string>
@@ -79,7 +73,7 @@
     <string name="tdi_current_power_left_right_balance">Links-rechts\u00ADba\u00ADlans</string>
 
     <!-- cardio load -->
-    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risico voor blessures \&amp; ziekte</b></string>
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risico voor blessures \\&amp; ziekte</b></string>
 
     <!-- training load contextual info drawers -->
     <string name="cardio_load_status_question_six">Hoe houd ik een productieve status?</string>
@@ -100,7 +94,7 @@
     <string name="nightly_recharge_status_popup_ans_charge_para2">Je AZS bestuurt twee soorten acties van je lichaam: je hart en je ademhaling als je actief bent, en je spijsvertering in rust. Hoe hoger je AZS-herstel, hoe groter de dominantie van het rust- en spijsverteringsgedeelte van je AZS in vergelijking met je <b>normale niveau</b>.</string>
 
     <!-- Tip for exercise -->
-    <string name="exercise_tip_e73">Dit is een goede dag om te trainen, maar overdrijf niet en luister als je lichaam ”nee” zegt.</string>
+    <string name="exercise_tip_e73">Dit is een goede dag om te trainen, maar overdrijf niet en luister als je lichaam \”nee\” zegt.</string>
 
     <!-- Tip for exercise -->
     <string name="exercise_tip_e92">Je kunt vandaag gerust trainen, zelfs als je er niet 100% aan toe bent.</string>
@@ -115,7 +109,7 @@
     <string name="sleep_plus_stages_empty_state_description">De functie Sleep Plus Stages™ meet de hoeveelheid en kwaliteit van je slaap. Elke ochtend krijg je een numerieke slaapscore (slaapherstel) die aangeeft hoe goed je hebt geslapen in vergelijking met de indicatoren van de huidige slaapwetenschap voor een goede nachtrust.</string>
 
     <!-- Sleep tip category: General -->
-    <string name="sleep_tip_g643">Plan tijd in om \&apos;s avonds tot rust te komen. Dit kan je helpen om in slaap te vallen en langer te slapen.</string>
+    <string name="sleep_tip_g643">Plan tijd in om \\&apos;s avonds tot rust te komen. Dit kan je helpen om in slaap te vallen en langer te slapen.</string>
 
     <!-- Ignite ftu info screen -->
     <string name="ignite_ftu_serene_para">Neem een moment voor jezelf met de Serene begeleide ademoefeningen. Als je de oefeningen regelmatig uitvoert, kan dit je helpen de kwaliteit van je slaap en je gevoel van welbevinden te verbeteren.</string>
@@ -124,7 +118,7 @@
     <string name="fav_lib_favs_on_device_header">Favorieten op %1$s (%2$s/%3$s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
-    <string name="smart_coaching_url">https://www.polar.com/nl/smart-coaching?utm_source=flow_featureguidance_android\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
+    <string name="smart_coaching_url">https://www.polar.com/nl/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
     <string name="running_test_vo2max_info">Je <b>maximale zuurstofopname (VO2max)</b> is de maximale capaciteit van je lichaam om zuurstof te verbruiken tijdens een maximale inspanning.\n\nWerk je VO2max bij om er zeker van te zijn dat we je de meest accurate en relevante gegevens kunnen leveren. VO2max beïnvloedt alle berekeningen die betrekking hebben op calorieën.</string>
@@ -139,22 +133,22 @@
     <string name="cycling_test_info3">Gebruik de test om je fietsprestaties bij te houden en je individuele vermogenszones te definiëren. Door je FTP-resultaat te delen door je gewicht kun je jezelf vergelijken met andere fietsers van hetzelfde geslacht. Vergeet niet om als dat nodig is je gewicht bij te werken in je instellingen.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_time">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s in %3$s</string>
+    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ in %3$@</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$s:\n%2$s in %3$s</string>
+    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ in %3$@</string>
 
     <!-- Polestar error cases: Location is off -->
-    <string name="record_exercise_location_off">Als je snelheid en afstand wilt krijgen tijdens je training, moet je toestaan dat Polar Flow altijd toegang heeft tot je locatie.</string>
+    <string name="record_exercise_location_off">Als je tijdens de training je snelheid en afstand wilt weten, moet je Polar Flow toestaan je locatie te gebruiken tijdens het gebruik van de app, of altijd</string>
 
     <!-- Polestar error cases: Precise location is off -->
     <string name="record_exercise_precise_location_off">Als je snelheid en afstand wilt krijgen tijdens je training, moet je toestaan dat Polar Flow je exacte locatie gebruikt.</string>

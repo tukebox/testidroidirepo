@@ -7,13 +7,13 @@
     <string name="main_title_notifications">Uasdpozorněn Toimiikohan samalla repolla? Iltatesti</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> Tsekki Chcete-li asdasdsynchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.</string>
+    <string name="support_item_how_to_sync_polar_v650"> Tsekki Chcete-li asdasdsynchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat sasda mobilem“ v postranní nabídce přístroje V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">asdasd Abyste získali zpětnou vazbu, musíte trénovat alespoň 10 minut nad 50 % vaší vypočtené maximální tepové frekvence.</string>
+    <string name="benefit_no_description">Abyste získali zpětnou vazbu, musíte trénovat alespoň 10 minut nad 50 % vaší vypočtené maximální tepové frekvence.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Základní trénink a trénink vytrvalostiasdasdasd</string>

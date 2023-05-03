@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Befejeződött az adatszinkronizálás a következővel: %@.";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "Nem sikerült az adatszinkronizálás a következővel: %@. Kérjük, próbáld meg újra.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Nem sikerült az adatszinkronizálás a következővel: %@. Kérjük, próbáld meg újra. jups!";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "Akkumulátor-állapot szinkronizáláskor: %@%%";

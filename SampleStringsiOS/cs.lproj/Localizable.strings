@@ -41,7 +41,7 @@
 "LICENSE_INTRO" = "Licence třetích stran\n\nPolar Flow používá software s otevřeným zdrojovým kódem třetích stran. Níže uvádíme výčet používaného softwaru a také příslušné informace o autorských právech a další informace, povolení a poděkování.\n\nDěkujeme vývojářům.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
-"SENSOR_FWU_STARTUP_DESCRIPTION" = "Pro %@ je k dispozici aktualizace.\nAktualizace může trvat několik minut.";
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Pro %@ je k dispozici aktualizace.\nAktualizace může trvat několik minutasdasdas.";
 
 /* Sport profiles info text for speed or pace zones */
 "SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Prostřednictvím zón rychlosti/tempa můžete snadno vybírat a monitorovat intenzitu tréninku. Zde se zobrazují výchozí zóny.\n\nKdyž zvolíte možnost Upravené zóny, můžete všechny limity měnit.";

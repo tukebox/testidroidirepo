@@ -4,10 +4,10 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Notifications fransuaa</string>
+    <string name="main_title_notifications">Notifications RANSKA</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">asd Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">Ranska Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% de FTP</string>

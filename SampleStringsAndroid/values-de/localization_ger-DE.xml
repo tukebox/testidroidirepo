@@ -4,16 +4,16 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">asdasdBenachrichtigungenasdasd hahaha </string>
+    <string name="main_title_notifications">Benachrichtigungenasdasd SAKSA</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> SAKSA Um deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option \&apos;Sync. asdasdmit Mobilgerät\&apos;.</string>
+    <string name="support_item_how_to_sync_polar_v650"> SAKSA Um asdasddeinen V650 mit der Flow App zu synchronisieren, wähle iasdas Seitenmenü deines V650 die Option \&apos;Sync. asdasdmit Mobilgerät\&apos;.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">% FTP</string>
+    <string name="unit_percent_of_ftp">% FTP jeeee??</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description"> asd iltatesti asdasdtesDu musst mindestens 10 Minuten mit über 50 % deiner berechneten maximalenasdasdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups</string>
+    <string name="benefit_no_description">  iltatesti asdasdtesDu musst mindestens 10 Minuten mit über 50 % deiner asdsd berecht maximlendsdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Basis- und Herz-Kreislauftraining jou</string>
@@ -22,16 +22,16 @@
     <string name="sync_notification_device_success">Synchronisierung der Daten mit %1$s abgeschlossen</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmalasdasd.</string>
+    <string name="sync_notification_device_failed">asdasd Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmalasdasd.</string>
 
     <!-- Battery status title in devices view -->
     <string name="devices_battery_status_title">Akkustatus wenn synchronisiert: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
-    <string name="registration_do_initial_mobile_ftu_setup_info_text">asdasdStelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.</string>
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Stelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">Das Gewicht, das du gerade gemessen hast (%1$s), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%2$s).</string>
+    <string name="balance_weight_differs_more_10">Das Gewicht, das du gerade gemesen hast (%1$s), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%2$s).</string>
 
     <!-- into text for licenses -->
     <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>

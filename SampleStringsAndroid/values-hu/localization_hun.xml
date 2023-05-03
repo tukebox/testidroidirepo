@@ -7,7 +7,7 @@
     <string name="main_title_notifications">Értesítések HU!</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillal” lehetőséget a V650 óra oldalsó menüjéből.</string>
+    <string name="support_item_how_to_sync_polar_v650">UNKARI A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillalasdasd” lehetőséget a V650 óra oldalsó menüjéből.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">FTP%</string>
@@ -22,7 +22,7 @@
     <string name="sync_notification_device_success">Befejeződött az adatszinkronizálás a következővel: %1$s.</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Nem sikerült az adatszinkronizálás a következővel: %1$s. Kérjük, próbáld meg újra.</string>
+    <string name="sync_notification_device_failed">Nem sikerült az adatszinkronizálás a következővel: %1$s. Kérjük, próbáld meg újra. jups!</string>
 
     <!-- Battery status title in devices view -->
     <string name="devices_battery_status_title">Akkumulátor-állapot szinkronizáláskor: %1$s%%</string>

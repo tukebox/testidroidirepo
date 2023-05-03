@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Meddelelseradasd</string>
+    <string name="main_title_notifications">Meddelelseradasd asd</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650"> djag For at synkronisere din V650 med Flow-appen skal asdasddu vælge \&apos;Synkroniser med mobil\&apos; fra sidemenuen af din V650.</string>
@@ -13,10 +13,10 @@
     <string name="unit_percent_of_ftp">% af FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Timestamp tanska. asdDu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SasdasdKRÄÄKKE dö</string>
+    <string name="benefit_no_description">Timestamp tanska. dDu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. SasdasdKRÄÄKKE dö</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">assadd Grundlæggende og stabil tilstands-træning</string>
+    <string name="benefit_value_basic_steady_state_basic">asd Grundlæggende og stabil tilstands-træning</string>
 
     <!-- Sync notification success -->
     <string name="sync_notification_device_success">Datasynkronisering med %1$s gennemført.</string>
@@ -25,7 +25,7 @@
     <string name="sync_notification_device_failed">Datasynkronisering med %1$s mislykkedes. Prøv igen.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Batteristatusfter synkronisering: %1$s %%</string>
+    <string name="devices_battery_status_title">Batteristatusfter synkroniseringasasd: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.</string>

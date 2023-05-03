@@ -8,7 +8,7 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Meddelanden";
+"MAIN_TITLE_NOTIFICATIONS" = "Meddelanden MUUTOS";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Synkronisera din V650 med Flow-appen genom att välja 'Synkronisera med mobil' från sidomenyn på din V650.";

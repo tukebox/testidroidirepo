@@ -35,10 +35,10 @@
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Assicurarsi che il telefono e il dispositivo dispongano di Bluetooth attivato e tenerli vicini durante l\’impostazione. In alternativa, se lo si desidera, è possibile eseguire l\’impostazione con il computer.";
 
 /* Balance weight measurement*/
-"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Il peso appena calcolato (%@) è diverso di oltre il 10%% rispetto al peso precedente (%@).";
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "asdasdIl peso appena calcolato (%@) è diverso di oltre il 10%% rispetto al peso precedente (%@).";
 
 /* into text for licenses */
-"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+"LICENSE_INTRO" = "asdasdThird-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "È disponibile un aggiornamento per il dispositivo %@.\nL’aggiornamento può richiedere alcuni minuti.";

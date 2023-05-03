@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Upozorněn Toimiikohan samalla repolla? Iltatesti asdasd</string>
+    <string name="main_title_notifications">Upozorněn Toimiikohan samalla repolla? Iltatesti</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650"> Tsekki Chcete-li asdasdsynchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.</string>
@@ -28,16 +28,16 @@
     <string name="devices_battery_status_title">Stav baterie při synchronizaci: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
-    <string name="registration_do_initial_mobile_ftu_setup_info_text">Dbejte na to, aby na telefonu i na přístroji bylo aktivovano Bluetooth, a mějte při nastavení obě zařízení položená vedle sebe. Pokud chcete, můžete nastavení provést i přes počítač.</string>
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">asdasdDbejte na to, aby na telefonu i na přístroji bylo aktivovano Bluetooth, a mějte při nastavení obě zařízení položená vedle sebe. Pokud chcete, můžete nastavení provést i přes počítač.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">Hmotnost, kterou jste právě naměřili (%1$s), se od předchozí hmotnosti (%2$s) liší o více než 10%%.</string>
+    <string name="balance_weight_differs_more_10">asdasdHmotnost, kterou jste právě naměřili (%1$s), se od předchozí hmotnosti (%2$s) liší o více než 10%%.</string>
 
     <!-- into text for licenses -->
     <string name="license_intro">Licence třetích stran\n\nPolar Flow používá software s otevřeným zdrojovým kódem třetích stran. Níže uvádíme výčet používaného softwaru a také příslušné informace o autorských právech a další informace, povolení a poděkování.\n\nDěkujeme vývojářům.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Pro %1$s je k dispozici aktualizace.\nAktualizace může trvat několik minut.</string>
+    <string name="sensor_fwu_startup_description">Pro %1$s je k dispozici aktualizace.\nAktualizace může trvat několik minutasdasdas.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Prostřednictvím zón rychlosti/tempa můžete snadno vybírat a monitorovat intenzitu tréninku. Zde se zobrazují výchozí zóny.\n\nKdyž zvolíte možnost Upravené zóny, můžete všechny limity měnit.</string>

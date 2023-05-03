@@ -4,16 +4,16 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Ilmoitukset(SUOMI)</string>
+    <string name="main_title_notifications">Ilmoitukset(SUOMI) HOUHOOUHOU</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">asdasdJos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
+    <string name="support_item_how_to_sync_polar_v650"> SuomiJos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% FTP-arvosta testijuttu</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Palautetta harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.</string>
+    <string name="benefit_no_description">Palautetta asdasd harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic"> kokkerör Perus- ja keskitehoinen harjoitus SUOMI testi</string>
@@ -22,7 +22,7 @@
     <string name="sync_notification_device_success">%1$s synkronoitu.</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Laitteen %1$s synkronointi epäonnistui. Yritä uudelleen.</string>
+    <string name="sync_notification_device_failed">Laitteen %1$s synkronointi epäonnistui. Yritä uudelleen. asdasd</string>
 
     <!-- Battery status title in devices view -->
     <string name="devices_battery_status_title">Akun tila synkkauksen hetkellä: %1$s %%</string>

@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Ilmoitukset(SUOMI) HOUHOOUHOU</string>
+    <string name="main_title_notifications">Ilmoitukset(SUOMI) HOUHOOUHOU joulupukki</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650"> SuomiJos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>

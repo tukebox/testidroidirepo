@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Obvestila</string>
+    <string name="main_title_notifications">Obvestila MUUTOS</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">Če želite kolesarski računalnik V650 sinhronizirati z aplikacijo Polar Flow, izberite »Sinhroniziraj z mobilno napravo« (»Sync with Mobile«) v stranskem meniju V650.</string>
@@ -19,25 +19,25 @@
     <string name="benefit_value_basic_steady_state_basic">Osnovni trening in trening z enakomernim tempom</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">Sinhronizacija podatkov s/z %1$s zaključena.</string>
+    <string name="sync_notification_device_success">Sinhronizacija podatkov s/z %s zaključena.</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Sinhronizacija podatkov s/z %1$s zaključena. Poskusite znova.</string>
+    <string name="sync_notification_device_failed">Sinhronizacija podatkov s/z %s zaključena. Poskusite znova.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Status baterije po sinhronizaciji: %1$s %%</string>
+    <string name="devices_battery_status_title">Status baterije po sinhronizaciji: %s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Prepričajte se, da je funkcija Bluetooth vklopljena tako na vaši napravi kot na vašem telefonu, med namestitvijo pa naj bosta postavljena eden ob drugem. Namestitev lahko opravite tudi preko računalnika.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">Teža, ki ste jo pravkar izmerili (%1$s) se za več kot 10 %% razlikuje od vaše prejšnje teže (%2$s).</string>
+    <string name="balance_weight_differs_more_10">Teža, ki ste jo pravkar izmerili (%s) se za več kot 10 %% razlikuje od vaše prejšnje teže (%s).</string>
 
     <!-- into text for licenses -->
     <string name="license_intro">Licence tretjih oseb\n\nAplikacija Polar Flow uporablja odprtokodno programsko opremo tretjih oseb. Spodaj si lahko ogledate, katero programsko opremo uporabljamo, skupaj z vsemi ustreznimi navedbami pravic intelektualne lastnine in drugimi opombami, dovoljenji ter pripoznanji.\n\nZahvaljujemo se razvijalcem programske opreme.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Na voljo je posodobitev za %1$s.\nPosodabljanje lahko traja nekaj minut.</string>
+    <string name="sensor_fwu_startup_description">Na voljo je posodobitev za %s.\nPosodabljanje lahko traja nekaj minut.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Z območji hitrosti/tempa lahko enostavno izberete in spremljate intenzivnost treninga. Območja, ki jih vidite tukaj, so privzeta območja.\n\nČe izberete območja po meri, lahko spremenite vse mejne vrednosti.</string>
@@ -115,7 +115,7 @@
     <string name="ignite_ftu_serene_para">Vzemite si trenutek zase z vodeno dihalno vajo Serene. Če jo izvajate redno, vam lahko dihalna vaja Serene pomaga izboljšati kakovost spanca in splošno dobro počutje.</string>
 
     <!-- Favorites library: Device favorites -->
-    <string name="fav_lib_favs_on_device_header">Priljubljene na %1$s (%2$s/%3$s)</string>
+    <string name="fav_lib_favs_on_device_header">Priljubljene na %s (%s/%s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
     <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
@@ -133,19 +133,19 @@
     <string name="cycling_test_info3">Test lahko uporabljate za spremljanje svoje kolesarske zmogljivosti in za določitev individualnih območij moči. Na podlagi FTP-rezultata, deljenega s telesno težo, se lahko primerjate z drugimi kolesarji istega spola. Ne pozabite v nastavitvah posodobiti podatka o telesni teži.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$@:\nin %2$@</string>
+    <string name="ps_diary_complete_training_time">%1$s:\nin %2$s</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ v %3$@</string>
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s v %3$s</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ v %3$@</string>
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s v %3$s</string>
 
     <!-- Polestar error cases: Location is off -->
     <string name="record_exercise_location_off">Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti dostop do lokacije med uporabo aplikacije ali neprestano.</string>
@@ -157,7 +157,7 @@
     <string name="record_exercise_location_off_precise_location_off">Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti:\n- dostop do lokacije med uporabo aplikacije ali neprestan\n- dostop do vaše točne lokacije</string>
 
     <!-- Battery status -->
-    <string name="battery_status_percentage">Baterija %1$s%%</string>
+    <string name="battery_status_percentage">Baterija %s%%</string>
 
     <!-- sleep edit -->
     <string name="sleep_edit_rules_popup_rule_four">Izberete lahko »Zamenjaj nazaj«, če želite uporabljati prvotno beleženje časa.</string>
@@ -169,7 +169,7 @@
     <string name="settings_refuse_data_use_for_rd_purposes_header">Raziskave in razvoj</string>
 
     <!-- R&D refusal tick box text -->
-    <string name="settings_refuse_data_use_for_rd_purposes_text">Ne želim, da se moji podatki uporabljajo za %1$s. Polar lahko s pomočjo teh podatkov razvija in izboljšuje izdelke ter storitve.</string>
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Ne želim, da se moji podatki uporabljajo za %s. Polar lahko s pomočjo teh podatkov razvija in izboljšuje izdelke ter storitve.</string>
 
     <!-- R&D refusal tick box variable link -->
     <string name="settings_refuse_data_use_for_rd_purposes_link">raziskave in razvoj</string>

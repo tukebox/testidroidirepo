@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Obvestila</string>
+    <string name="main_title_notifications">Obvestila MUUTOS</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">Če želite kolesarski računalnik V650 sinhronizirati z aplikacijo Polar Flow, izberite »Sinhroniziraj z mobilno napravo« (»Sync with Mobile«) v stranskem meniju V650.</string>

@@ -28,7 +28,7 @@
     <string name="devices_battery_status_title">Akkustatus wenn synchronisiert: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
-    <string name="registration_do_initial_mobile_ftu_setup_info_text">Stelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.</string>
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">asdasdStelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.</string>
 
     <!-- Balance weight measurement -->
     <string name="balance_weight_differs_more_10">Das Gewicht, das du gerade gemessen hast (%1$s), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%2$s).</string>

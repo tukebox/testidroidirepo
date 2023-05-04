@@ -13,7 +13,7 @@
     <string name="unit_percent_of_ftp">% FTP jeeee?? jups </string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">  iltatesti asdasdtesDu musst mindestens 10 Minuten mit über asdasdas50 % deiner asdsd berechmaimlensdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups</string>
+    <string name="benefit_no_description">  iltatesti tesDu musst mindestens 10 Minuten mit über asdasdas50 % deiner asdsd berechmaimlensdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
     <string name="benefit_value_basic_steady_state_basic">Basis- und Herz-Kreislauftraining jou</string>
@@ -22,7 +22,7 @@
     <string name="sync_notification_device_success">Synchronisierung der Daten mit %1$s abgeschlossen</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">asdasd Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmalasdasd.</string>
+    <string name="sync_notification_device_failed"> Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmalasdasd.</string>
 
     <!-- Battery status title in devices view -->
     <string name="devices_battery_status_title">Akkustatus wenn synchronisiert: %1$s %%</string>

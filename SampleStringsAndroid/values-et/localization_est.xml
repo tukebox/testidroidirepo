@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Teatised</string>
+    <string name="main_title_notifications">Teatised TEST</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">V650 veekasi sünkroonimiseks Polar Flow\&apos; rakendusega vali V650 külgmenüüst Sünkrooni mobiiliga.</string>
@@ -16,7 +16,7 @@
     <string name="benefit_no_description">onko unkari Tagasiside saamiseks pead treenima vähemalt 10 minutit nii, et südame löögisagedus oleks rohkem kui 50% arvutatud löögisageduse maksimumist.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Põhi- ja püsivustreening asdasd</string>
+    <string name="benefit_value_basic_steady_state_basic">Põhi- ja püsivustreening</string>
 
     <!-- Sync notification success -->
     <string name="sync_notification_device_success">Andmete sünkroonimine teenusega %1$s on lõpetatud.</string>

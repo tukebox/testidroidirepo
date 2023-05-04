@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "% FTP jeeee?? jups ";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "  iltatesti asdasdtesDu musst mindestens 10 Minuten mit über asdasdas50 % deiner asdsd berechmaimlensdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups";
+"BENEFIT_NO_DESCRIPTION" = "  iltatesti tesDu musst mindestens 10 Minuten mit über asdasdas50 % deiner asdsd berechmaimlensdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Basis- und Herz-Kreislauftraining jou";
@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Synchronisierung der Daten mit %@ abgeschlossen";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasd Synchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmalasdasd.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = " Synchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmalasdasd.";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "Akkustatus wenn synchronisiert: %@ %%";

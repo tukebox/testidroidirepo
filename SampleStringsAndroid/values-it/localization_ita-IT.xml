@@ -7,7 +7,7 @@
     <string name="main_title_notifications">Avvisi Avantti Napoli!</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">Per sincronizzare il V650 con l\’app Flow, selezionare \&apos;Sincronizza con dispositivo mobile\&apos; dal menu laterale del V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">asasdPer sincronizzare il V650 con l\’app Flow, selezionare \&apos;Sincronizza con dispositivo mobile\&apos; dal menu laterale del V650.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">% di FTP</string>
@@ -31,10 +31,10 @@
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Assicurarsi che il telefono e il dispositivo dispongano di Bluetooth attivato e tenerli vicini durante l\\’impostazione. In alternativa, se lo si desidera, è possibile eseguire l\\’impostazione con il computer.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">Il peso appena calcolato (%1$s) è diverso di oltre il 10%% rispetto al peso precedente (%2$s).</string>
+    <string name="balance_weight_differs_more_10">asdasdIl peso appena calcolato (%1$s) è diverso di oltre il 10%% rispetto al peso precedente (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">asdasdThird-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
     <string name="sensor_fwu_startup_description">È disponibile un aggiornamento per il dispositivo %1$s.\nL\’aggiornamento può richiedere alcuni minuti.</string>

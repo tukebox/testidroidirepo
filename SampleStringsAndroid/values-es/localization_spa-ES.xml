@@ -16,7 +16,7 @@
     <string name="benefit_no_description">Time stamppi testiNecesitas entrenar al menos 10 minutos por encima del 50% de tu frecuencia cardíaca máxima calculada para obtener feedback.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Entrenamiento básico y por ritmo constante Johannesss </string>
+    <string name="benefit_value_basic_steady_state_basic">Entrenamiento básico y por ritmo constante Johannes</string>
 
     <!-- Sync notification success -->
     <string name="sync_notification_device_success">Sincronización de datos con tu %1$s completada.</string>

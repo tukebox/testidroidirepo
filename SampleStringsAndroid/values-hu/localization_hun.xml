@@ -37,7 +37,7 @@
     <string name="license_intro">Harmadik féltől származó licencek\n\nA Polar Flow bizonyos, harmadik felektől származó nyílt forráskódú szoftvereket használ. Az alábbiakban megnézheted, hogy milyen szoftvereket használunk, és megnézheted a hozzájuk kapcsolódó szerzői jogi és egyéb megjegyzéseket, engedélyeket és visszaigazolásokat.\n\nKöszönettel tartozunk a fejlesztőknek.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Frissítés érhető el a(z) %1$s eszközhöz.\nA frissítés eltarthat néhány percig.</string>
+    <string name="sensor_fwu_startup_description">Frissítés érhető el a(z) %1$s eszközhöz.\nA frissítés eltarthat néhány percig.Unkari</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">A sebesség/tempó zónákkal egyszerűen kiválaszthatod és figyelemmel követheted az edzési intenzitásokat. Az itt látható zónák Alapértelmezett zónák.\n\nHa az Egyéni zónákat választod, akkor az összes határérték módosítható.</string>

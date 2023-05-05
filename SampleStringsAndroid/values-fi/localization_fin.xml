@@ -4,28 +4,28 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Ilmoitukset(SUOMI) HOUHOOUHOU joulupukki</string>
+    <string name="main_title_notifications">Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti...</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> SuomiJos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
+    <string name="support_item_how_to_sync_polar_v650">nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">% FTP-arvosta testijuttu</string>
+    <string name="unit_percent_of_ftp">% FTP-arvosta SUOMI Testiä pukkaa pitkästä aikaa tähänkin repoon</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Palautetta asdasd harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.</string>
+    <string name="benefit_no_description">asdasd SUOMI Palautetta harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic"> Perus- ja keskitehoinen harjoitus SUOMI testi jeå</string>
+    <string name="benefit_value_basic_steady_state_basic">Perus- ja keskitehoinen harjoitus</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">%1$s synkronoitu.</string>
+    <string name="sync_notification_device_success">%1$s synkronoitu.Suomi asdasd</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Laitteen %1$s synkronointi epäonnistui. Yritä uudelleen. asdasd</string>
+    <string name="sync_notification_device_failed">Ois Suomi nouse! Laitteen %1$s synkronointi epäonnistui. Yritä uudelleen.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Akun tila synkkauksen hetkellä: %1$s %%</string>
+    <string name="devices_battery_status_title">Sinun aikas koittaa... Akun tila synkkauksen hetkellä: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Varmista, että puhelimessasi ja laitteessasi on Bluetooth käytössä, ja pidä laitteet lähekkäin käyttöönoton aikana. Halutessasi voit myös tehdä käyttöönoton tietokoneella.</string>
@@ -40,7 +40,7 @@
     <string name="sensor_fwu_startup_description">Päivitys saatavilla laitteelle %1$s.\nPäivittäminen voi kestää muutaman minuutin.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
-    <string name="sport_profiles_info_text_speed_pace_zones">Nopeus-/vauhtialueiden avulla voit helposti suunnitella ja seurata treenisi intensiteettiä. Tässä näet oletusalueet.\n\nJos valitset Mukautetut alueet, voit muuttaa kaikkia rajoja.</string>
+    <string name="sport_profiles_info_text_speed_pace_zones">katotaa. Nopeus-/vauhtialueiden avulla voit helposti suunnitella ja seurata treenisi intensiteettiä. Tässä näet oletusalueet.\n\nJos valitset Mukautetut alueet, voit muuttaa kaikkia rajoja.</string>
 
     <!-- Sport profiles training display item -->
     <string name="sport_profiles_training_display_item_power_lr_balance">Vasemman ja oikean tasapaino</string>
@@ -49,10 +49,10 @@
     <string name="ftu_save_sync">Tallenna ja synkronoi</string>
 
     <!-- Training session list view search bar placeholder text -->
-    <string name="training_session_list_view_filter_placeholder_text">Hae tai suodata tyypin mukaan</string>
+    <string name="training_session_list_view_filter_placeholder_text">perkkelle Hae tai suodata tyypin mukaan</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">Hyväksyn, että <b>Polar voi kerätä ja käsitellä arkaluonteisia henkilötietojani</b>, kuten sykettä, Polarin tietosuojakäytännössä kuvatulla tavalla.</string>
+    <string name="consents_sensitive_data_checkbox">Nyt pitäs toimia. Hyväksyn, että <b>Polar voi kerätä ja käsitellä arkaluonteisia henkilötietojani</b>, kuten sykettä, Polarin tietosuojakäytännössä kuvatulla tavalla.</string>
 
     <!-- Training display item sport profile settings - time of day -->
     <string name="tdi_time_of_day">Kel\u00ADlon\u00ADai\u00ADka</string>
@@ -103,7 +103,7 @@
     <string name="exercise_tip_e123">Anna palaa! Katso tarkemmat treeniohjeet kellostasi!</string>
 
     <!-- Tip for exercise -->
-    <string name="exercise_tip_e181">Tänään voit olla mestari, joten anna palaa! asdasd </string>
+    <string name="exercise_tip_e181">Tänään voit olla mestari, joten anna palaa!</string>
 
     <!-- Empty state for Sleep Plus Stages -->
     <string name="sleep_plus_stages_empty_state_description">Sleep Plus Stages™ ‑toiminto mittaa unesi määrän ja laadun. Näet joka aamu numeerisen unituloksen (unen tilan), joka kuvaa sitä, miten hyvin nukuit verrattuna unitieteen tämänhetkisen tiedon mukaisiin hyvän yöunen indikaattoreihin.</string>

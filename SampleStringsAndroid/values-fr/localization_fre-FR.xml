@@ -4,19 +4,19 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Notifications RANSKA</string>
+    <string name="main_title_notifications">Ranska, NotificationsTESTI1, Testi6. Seuraavatesti</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">muutos Ranska Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
+    <string name="support_item_how_to_sync_polar_v650">RANSKA!!asdasdsad Pasdasdour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez \&apos;Sync avec mobile\&apos; dans le menu du bouton latéral de votre V650.</string>
 
     <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">% de FTP</string>
+    <string name="unit_percent_of_ftp">% de FTPasdsad</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Vous devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires. ei</string>
+    <string name="benefit_no_description">Crontabi yms. testi! ja Windows scheluder. on Vous ranske devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Entraînement de base et régulier testia</string>
+    <string name="asdasdbenefit_value_basic_steady_state_basic">PElaan ranskalla, Entraînement de base et régulier</string>
 
     <!-- Sync notification success -->
     <string name="sync_notification_device_success">Synchronisation des données avec le %1$s terminée.</string>
@@ -31,10 +31,10 @@
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Vérifiez que le Bluetooth est activé sur votre téléphone et votre dispositif, et maintenez ceux-ci près l\&apos;un de l\&apos;autre pendant la configuration. Si vous le souhaitez, vous pouvez aussi procéder à la configuration avec votre ordinateur.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">Le poids que vous venez de mesurer (%1$s) diffère de plus de 10 %% de votre poids précédent (%2$s).</string>
+    <string name="balance_weight_differs_more_10">Ranskaaaa!! Le poids que vous venez de mesurer (%1$s) diffère de plus de 10 %% de votre poids précédent (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">testi topille Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
     <string name="sensor_fwu_startup_description">Une mise à jour est disponible pour votre %1$s.\nIl se peut que la mise à jour prenne quelques minutes.</string>
@@ -46,10 +46,10 @@
     <string name="sport_profiles_training_display_item_power_lr_balance">Équilibre gauche/ droite</string>
 
     <!-- FTU Save and sync -->
-    <string name="ftu_save_sync">Enregistrer et synchroniser</string>
+    <string name="ftu_save_sync">asasdEnregistrer et synchroniser</string>
 
     <!-- Training session list view search bar placeholder text -->
-    <string name="training_session_list_view_filter_placeholder_text">Rechercher ou filtrer par type</string>
+    <string name="training_session_list_view_filter_placeholder_text">Rechercher ou filtrer par type mitahan tama tarkoittaa</string>
 
     <!-- EUGDPR consents: settings -->
     <string name="consents_sensitive_data_checkbox">J\&apos;accepte que <b>Polar puisse collecter et traiter mes données personnelles sensibles</b> comme la fréquence cardiaque, comme décrit dans la Note sur la confidentialité de Polar.</string>
@@ -58,7 +58,7 @@
     <string name="tdi_time_of_day">Heure du jour</string>
 
     <!-- Training display item sport profile settings - time in pace zone -->
-    <string name="tdi_time_in_pace_zone">Temps en zo\u00ADnes d\&apos;al\u00ADlure</string>
+    <string name="tdi_time_in_pace_zone">Huhhuh, Temps en zo\u00ADnes d\&apos;al\u00ADlure</string>
 
     <!-- Training display item sport profile settings - ascent -->
     <string name="tdi_ascent">Dé\u00ADni\u00ADve\u00ADlé+</string>

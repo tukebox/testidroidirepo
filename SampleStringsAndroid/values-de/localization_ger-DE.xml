@@ -4,37 +4,37 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Benachrichtigungenasdasd SAKSA TEST TEST2\&quot;; ei</string>
+    <string name="main_title_notifications">nyt pitäsd toimian? Benachrichtigungen KOLMAS TESTI, TESTI2 asdasdTESTI3 , depthtesti</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650"> SAKSA Um asdasdasdaddeinen V650 mit der Flow App zu synchronisieren, asdasdwähle iasdas Seitenmenü deines V650 die Option \&apos;Sync. asdasdmit Mobilgerät\&apos;.</string>
+    <string name="support_item_how_to_sync_polar_v650">Testi!! saksa Tipitii jupsUm asdasddeinenasdasd asdV650 asdasdmit jups der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option \&apos;Sync. mit Mobilgerät\&apos;.</string>
 
-    <!-- % of FTP unit -->
-    <string name="unit_percent_of_ftp">% FTP jeeee?? jups</string>
+    <!-- % of FTP unit yyber alles saat -->
+    <string name="unit_percent_of_ftp">% FTP</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">  iltatesti tesDu musst mindestens 10 Minuten mit über asdasdas50 % deiner asdsd berechmaimlensdsa Herzfrequenz traeren, um Feedback zu erhalten. Jups</string>
+    <string name="benefit_no_description">Crontabi ja cheluder yms. testi! . qwertyDu musst mindestensjag asdasdasd 10 Minuten mitasd über 50 % deiner berechneten maximalen Herzfrequenz trainieren, um Feedback zu erhalten.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Basis- und Herz-Kreislauftraining jou</string>
+    <string name="benefit_value_basic_steady_state_basic">Testimuutos. TESTIAAAasdaasdasdBasisasdasd-asdsad und Herz-Kreislauftrainingsaksa</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">Synchronisierung der Daten mit %1$s abgeschlossen</string>
+    <string name="sync_notification_device_success">katokku saksa Synchronisierung der Daten mit %1$s abgeschlossen asdasd</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed"> Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmalasdasd.</string>
+    <string name="sync_notification_device_failed">asdasdSynchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmal.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Akkustatus wenn synchronisiert: %1$s %%</string>
+    <string name="devices_battery_status_title">testi topille Akkustatus wenn synchronisiert: %1$s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Stelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">Das Gewicht, das du gerade gemesen hast (%1$s), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%2$s).</string>
+    <string name="balance_weight_differs_more_10">SAKSA! Das Gewicht, das du gerade gemessen hast (%1$s), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%2$s).</string>
 
     <!-- into text for licenses -->
-    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+    <string name="license_intro">saksaaa joo sakse Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
     <string name="sensor_fwu_startup_description">Für dein Gerät %1$s ist ein Update verfügbar.\nDas Aktualisieren kann ein paar Minuten dauern.</string>
@@ -46,13 +46,13 @@
     <string name="sport_profiles_training_display_item_power_lr_balance">L-/R-Balance</string>
 
     <!-- FTU Save and sync -->
-    <string name="ftu_save_sync">Speichern \&amp; sync.</string>
+    <string name="ftu_save_sync">Speichern \&amp; sync.Saatana </string>
 
     <!-- Training session list view search bar placeholder text -->
     <string name="training_session_list_view_filter_placeholder_text">Nach Typ suchen oder filtern</string>
 
     <!-- EUGDPR consents: settings -->
-    <string name="consents_sensitive_data_checkbox">Ich stimme zu, dass Polar <b>meine sensiblen personenbezogenen Daten (z. B. Herzfrequenzdaten) wie im Polar Datenschutzhinweis beschrieben erhebt und verarbeitet</b>.</string>
+    <string name="consents_sensitive_data_checkbox">kokkerör. Ich stimme zu, dass Polar <b>meine sensiblen personenbezogenen Daten (z. B. Herzfrequenzdaten) wie im Polar Datenschutzhinweis beschrieben erhebt und verarbeitet</b>.</string>
 
     <!-- Training display item sport profile settings - time of day -->
     <string name="tdi_time_of_day">Ta\u00ADges\u00ADzeit</string>
@@ -61,7 +61,7 @@
     <string name="tdi_time_in_pace_zone">Zeit in Tempo\u00ADzone</string>
 
     <!-- Training display item sport profile settings - ascent -->
-    <string name="tdi_ascent">Stei\u00ADgung</string>
+    <string name="tdi_ascent">yyber alles! Stei\u00ADgung</string>
 
     <!-- Training display item sport profile settings - descent -->
     <string name="tdi_descent">Ge\u00ADfälle</string>
@@ -121,7 +121,7 @@
     <string name="smart_coaching_url">https://www.polar.com/de/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
 
     <!-- Running test - update -->
-    <string name="running_test_vo2max_info"> asdasdasd Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.</string>
+    <string name="running_test_vo2max_info">Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.</string>
 
     <!-- Cycling test: FTP information -->
     <string name="cycling_test_ftp_info">Der Wert der funktionellen Schwellenleistung (FTP) reflektiert die Intensität, die ein gut trainierter Radfahrer für eine Stunde aufrechterhalten kann.\n\nAktualisiere deinen FTP-Wert, um deine Leistungszonen auf den neuesten Stand zu bringen, was dir dabei hilft, mit der richtigen Intensität zu trainieren.</string>

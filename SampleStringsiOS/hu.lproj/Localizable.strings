@@ -41,7 +41,7 @@
 "LICENSE_INTRO" = "Harmadik féltől származó licencek\n\nA Polar Flow bizonyos, harmadik felektől származó nyílt forráskódú szoftvereket használ. Az alábbiakban megnézheted, hogy milyen szoftvereket használunk, és megnézheted a hozzájuk kapcsolódó szerzői jogi és egyéb megjegyzéseket, engedélyeket és visszaigazolásokat.\n\nKöszönettel tartozunk a fejlesztőknek.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
-"SENSOR_FWU_STARTUP_DESCRIPTION" = "Frissítés érhető el a(z) %@ eszközhöz.\nA frissítés eltarthat néhány percig.";
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Frissítés érhető el a(z) %@ eszközhöz.\nA frissítés eltarthat néhány percig.Unkari";
 
 /* Sport profiles info text for speed or pace zones */
 "SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "A sebesség/tempó zónákkal egyszerűen kiválaszthatod és figyelemmel követheted az edzési intenzitásokat. Az itt látható zónák Alapértelmezett zónák.\n\nHa az Egyéni zónákat választod, akkor az összes határérték módosítható.";

@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">알림</string>
+    <string name="main_title_notifications">알림 Pöytä koreaksi</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">V650과 Flow 앱을 동기화하려면, V650의 사이드 메뉴에서 \&quot;모바일과의 동기화\&quot;를 선택하십시오.</string>

@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Entrenamiento básico y por ritmo constante Johannes";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Sincronización de datos con tu %@ completada.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Sincronización de datos con tu %@ completada.Toimiii";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Fallo de sincronización de datos con tu %@. Inténtalo de nuevo.asdasd ";

@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti...</string>
+    <string name="main_title_notifications">Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti... asd</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>
@@ -19,7 +19,7 @@
     <string name="benefit_value_basic_steady_state_basic">Perus- ja keskitehoinen harjoitus</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">%1$s synkronoitu.Suomi asdasd</string>
+    <string name="sync_notification_device_success">%1$s synkronoitu.Suomi</string>
 
     <!-- Sync notification failed -->
     <string name="sync_notification_device_failed">Ois Suomi nouse! Laitteen %1$s synkronointi epäonnistui. Yritä uudelleen.</string>
@@ -82,7 +82,7 @@
     <string name="cardio_load_status_question_twelve">Yritänkö pitää statukseni kehittävänä koko ajan?</string>
 
     <!-- Sleep regeneration info popup content -->
-    <string name="sleep_regeneration_popup_page2_para2">Suurin osa syvästä unesta ajoittuu <b>yön ensimmäiselle puoliskolle</b>. Aikuisilla syvän unen keskimääräinen osuus uniajasta on 15 prosenttia. Noin 17 prosenttia antaa maksimituloksen tästä unituloksen osatekijästä. Suuremmat tai pienemmät prosentit laskevat tulosta.</string>
+    <string name="sleep_regeneration_popup_page2_para2">Suurin osa syvästä unesta ajoittuu <b>yön ensimmäiselle puoliskolle</b>. Aikuisilla syvän unen keskimääräinen osuus uniajasta on 15 prosenttia. Noin 17 prosenttia antaa maksimituloksen tästä unituloksen osatekijästä. Suuremmat tai pienemmät prosentit laskevat tulosta.</string>
 
     <!-- Sleep regeneration info popup content -->
     <string name="sleep_regeneration_popup_page3_para1">REM on lyhenne sanoista ”rapid eye movement”, mikä tarkoittaa vilkeunta. REM-unessa lihakset ovat rentoina mutta aivot aktiiviset. REM-uni <b>auttaa mieltä palautumaan</b> ja parantaa <b>muistia</b> ja <b>oppimista</b>. Suurin osa unien näkemisestä tapahtuu tässä univaiheessa.</string>

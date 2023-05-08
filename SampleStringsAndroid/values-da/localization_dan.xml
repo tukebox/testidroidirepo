@@ -19,25 +19,25 @@
     <string name="benefit_value_basic_steady_state_basic">asdasdGrundlæggende og stabilasdasd  tilstands-træning Goroooooo</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">oiskotansa Datasynkronisering med %1$s gennemført. kylllasdasd</string>
+    <string name="sync_notification_device_success">oiskotansa Datasynkronisering med %s gennemført. kylllasdasd</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Joku muutos. Datasynkronisering med %1$s mislykkedes. Prøv igen.asdasdtanska </string>
+    <string name="sync_notification_device_failed">Joku muutos. Datasynkronisering med %s mislykkedes. Prøv igen.asdasdtanska </string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Batteristatus efter synkronisering: %1$s %%</string>
+    <string name="devices_battery_status_title">Batteristatus efter synkronisering: %s %%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">asdasd Noe! NoNIIII!!! Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">JoopaJoooo... testiaaa  Den vægt, du lige har vejet dig til (%1$s), varierer med over 10 %% fra din forrige vægt (%2$s). Tush</string>
+    <string name="balance_weight_differs_more_10">JoopaJoooo... testiaaa  Den vægt, du lige har vejet dig til (%s), varierer med over 10 %% fra din forrige vægt (%s). Tush</string>
 
     <!-- into text for licenses -->
     <string name="license_intro">Hurraahuhhahhei, Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Der findes en opdatering til dit %1$s.\nOpdateringen kan tage nogle få minutter.</string>
+    <string name="sensor_fwu_startup_description">Der findes en opdatering til dit %s.\nOpdateringen kan tage nogle få minutter.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">Kokeillaas vielä... Med hastigheds- og kokkeroo, oisko mittää oisko soisko mittää :Dtempozonerne kan du nemt vælge og overvåge forskellige træningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vælger Brugertilpassede zoner, kan alle grænseværdier ændres.</string>
@@ -115,7 +115,7 @@
     <string name="ignite_ftu_serene_para">Brug et øjeblik på dig selv med vejrtrækningsøvelser med vejledning fra Serene. Hvis du udfører dem jævnligt, kan Serene hjælpe dig med at forbedre kvaliteten af din søvn og din følelse af velvære i det hele taget.</string>
 
     <!-- Favorites library: Device favorites -->
-    <string name="fav_lib_favs_on_device_header">Favoritter på %1$s (%2$s/%3$s)</string>
+    <string name="fav_lib_favs_on_device_header">Favoritter på %s (%s/%s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
     <string name="smart_coaching_url">https://www.polar.com/da/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
@@ -133,19 +133,19 @@
     <string name="cycling_test_info3">Brug testen til at holde styr på din cykelpræstation og til at definere dine individuelle effektzoner. Dit FTP-resultat divideres med din vægt, så du kan sammenligne dit resultat med andre cyklister af samme køn. Husk at opdatere din vægt i dine indstillinger.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$@:\npå %2$@</string>
+    <string name="ps_diary_complete_training_time">%1$s:\npå %2$s</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ på %3$@</string>
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s på %3$s</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ på %3$@</string>
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s på %3$s</string>
 
     <!-- Polestar error cases: Location is off -->
     <string name="record_exercise_location_off">For at se din hastighed og distance under træning skal du give Flow tilladelse til at bruge din lokalitet, mens du bruger appen eller altid.</string>
@@ -157,7 +157,7 @@
     <string name="record_exercise_location_off_precise_location_off">Tipitii For at se din hastighed og distance under træning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din præcise lokalitet.</string>
 
     <!-- Battery status -->
-    <string name="battery_status_percentage">Batteri %1$s %%</string>
+    <string name="battery_status_percentage">Batteri %s %%</string>
 
     <!-- sleep edit -->
     <string name="sleep_edit_rules_popup_rule_four">Du kan vælge \&quot;Skift tilbage\&quot; for at skifte tilbage til den oprindelige timing</string>
@@ -169,7 +169,7 @@
     <string name="settings_refuse_data_use_for_rd_purposes_header">Forskning og udvikling</string>
 
     <!-- R&D refusal tick box text -->
-    <string name="settings_refuse_data_use_for_rd_purposes_text">Jeg vil ikke have, at mine data bliver brugt til %1$s. Brug af data hjælper Polar med at udvikle og forbedre produkter og tjenester.</string>
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Jeg vil ikke have, at mine data bliver brugt til %s. Brug af data hjælper Polar med at udvikle og forbedre produkter og tjenester.</string>
 
     <!-- R&D refusal tick box variable link -->
     <string name="settings_refuse_data_use_for_rd_purposes_link">forskning og udvikling</string>

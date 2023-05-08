@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti...asdasdasd</string>
+    <string name="main_title_notifications">Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti...</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650">nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta \’Synkronoi mobiililaite\’.</string>

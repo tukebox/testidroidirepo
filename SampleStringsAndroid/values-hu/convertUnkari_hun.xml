@@ -4,7 +4,7 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">asdasdÉrtesítések ei voi olla</string>
+    <string name="main_title_notifications">Értesítések ei voi olla</string>
 
     <!-- How to sync: V650 -->
     <string name="support_item_how_to_sync_polar_v650"> unkari A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillal” lehetőséget a V650 óra oldalsó menüjéből.</string>
@@ -19,7 +19,7 @@
     <string name="benefit_value_basic_steady_state_basic">Unkari! Alap- és tartós edzés</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">asdasdas Befejeződött az adatszinkronizálás a következővel: %s.</string>
+    <string name="sync_notification_device_success"> Befejeződött az adatszinkronizálás a következővel: %s.</string>
 
     <!-- Sync notification failed -->
     <string name="sync_notification_device_failed">Nem sikerült az adatszinkronizálás a következővel: %s. Kérjük, próbáld meg újra.</string>

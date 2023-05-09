@@ -4,40 +4,40 @@
 
     <!--  -->
     <!-- Notifications main title -->
-    <string name="main_title_notifications">Értesítések HU!</string>
+    <string name="main_title_notifications">Értesítések ei voi olla</string>
 
     <!-- How to sync: V650 -->
-    <string name="support_item_how_to_sync_polar_v650">UNKARI A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillalasdasd” lehetőséget a V650 óra oldalsó menüjéből.</string>
+    <string name="support_item_how_to_sync_polar_v650"> unkari A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillal” lehetőséget a V650 óra oldalsó menüjéből.</string>
 
     <!-- % of FTP unit -->
     <string name="unit_percent_of_ftp">FTP%</string>
 
     <!-- Benefit no description -->
-    <string name="benefit_no_description">Ahhoz, hogy visszajelzést kapj, legalább 10 percet kell edzened a számított maximális pulzus 50%-a felett.</string>
+    <string name="benefit_no_description"> Hungaroring on jees, Ahhoz, unkariii hogy visszajelzést kapj, legalább 10 percet kell edzened a számított maximális pulzus 50%-a felett.</string>
 
     <!-- Basic steady state training benefit (SRP.02038.71.61) -->
-    <string name="benefit_value_basic_steady_state_basic">Alap- és tartós edzés</string>
+    <string name="benefit_value_basic_steady_state_basic">Unkari! Alap- és tartós edzés</string>
 
     <!-- Sync notification success -->
-    <string name="sync_notification_device_success">Befejeződött az adatszinkronizálás a következővel: %1$s.</string>
+    <string name="sync_notification_device_success">asdasdas Befejeződött az adatszinkronizálás a következővel: %s.</string>
 
     <!-- Sync notification failed -->
-    <string name="sync_notification_device_failed">Nem sikerült az adatszinkronizálás a következővel: %1$s. Kérjük, próbáld meg újra. jups!</string>
+    <string name="sync_notification_device_failed">Nem sikerült az adatszinkronizálás a következővel: %s. Kérjük, próbáld meg újra.</string>
 
     <!-- Battery status title in devices view -->
-    <string name="devices_battery_status_title">Akkumulátor-állapot szinkronizáláskor: %1$s%%</string>
+    <string name="devices_battery_status_title">asfasfasAkkumulátor-állapot szinkronizáláskor: %s%%</string>
 
     <!-- Registration do initial mobile FTU setup info text -->
     <string name="registration_do_initial_mobile_ftu_setup_info_text">Győződj meg arról, hogy mind a telefonon, mind az eszközön be van kapcsolva a Bluetooth, és a beállítás során tartsd őket közel egymáshoz. Másik lehetőségként a beállítást a számítógépeden is elvégezheted, ha szeretnéd.</string>
 
     <!-- Balance weight measurement -->
-    <string name="balance_weight_differs_more_10">A mért testsúly (%1$s) több mint 10%%-kal eltér a korábbi testsúlyodtól (%2$s).</string>
+    <string name="balance_weight_differs_more_10">A mért testsúly (%s) több mint 10%%-kal eltér a korábbi testsúlyodtól (%s).</string>
 
     <!-- into text for licenses -->
     <string name="license_intro">Harmadik féltől származó licencek\n\nA Polar Flow bizonyos, harmadik felektől származó nyílt forráskódú szoftvereket használ. Az alábbiakban megnézheted, hogy milyen szoftvereket használunk, és megnézheted a hozzájuk kapcsolódó szerzői jogi és egyéb megjegyzéseket, engedélyeket és visszaigazolásokat.\n\nKöszönettel tartozunk a fejlesztőknek.</string>
 
     <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
-    <string name="sensor_fwu_startup_description">Frissítés érhető el a(z) %1$s eszközhöz.\nA frissítés eltarthat néhány percig.Unkari</string>
+    <string name="sensor_fwu_startup_description">Frissítés érhető el a(z) %s eszközhöz.\nA frissítés eltarthat néhány percig.</string>
 
     <!-- Sport profiles info text for speed or pace zones -->
     <string name="sport_profiles_info_text_speed_pace_zones">A sebesség/tempó zónákkal egyszerűen kiválaszthatod és figyelemmel követheted az edzési intenzitásokat. Az itt látható zónák Alapértelmezett zónák.\n\nHa az Egyéni zónákat választod, akkor az összes határérték módosítható.</string>
@@ -46,7 +46,7 @@
     <string name="sport_profiles_training_display_item_power_lr_balance">Bal/jobb egyensúly</string>
 
     <!-- FTU Save and sync -->
-    <string name="ftu_save_sync">Mentés és szinkronizálás</string>
+    <string name="ftu_save_sync">hurraa huhhahhei! Mentés és szinkronizálás</string>
 
     <!-- Training session list view search bar placeholder text -->
     <string name="training_session_list_view_filter_placeholder_text">Keresés vagy szűrés típus szerint</string>
@@ -115,7 +115,7 @@
     <string name="ignite_ftu_serene_para">Szánj egy percet magadra a Serene irányított légzőgyakorlattal. A Serene rendszeresen végezve javíthatja az alvás minőségét és az általános jóllétet.</string>
 
     <!-- Favorites library: Device favorites -->
-    <string name="fav_lib_favs_on_device_header">Kedvencek itt: %1$s (%2$s/%3$s)</string>
+    <string name="fav_lib_favs_on_device_header">Kedvencek itt: %s (%s/%s)</string>
 
     <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
     <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
@@ -133,19 +133,19 @@
     <string name="cycling_test_info3">Használd ezt a tesztet a kerékpározási teljesítményed nyomon követéséhez és az egyedi teljesítményzónák meghatározásához. A testsúlyoddal elosztott funkcionális teljesítményküszöb eredmények segítségével összehasonlíthatod magad a veled azonos nemű más kerékpárosokkal. Ne felejtsd el frissíteni testsúlyodat a beállításokban.</string>
 
     <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
-    <string name="ps_diary_complete_training_time">%1$@:\n %2$@</string>
+    <string name="ps_diary_complete_training_time">%1$s:\n %2$s</string>
 
     <!-- Polestar timeline items: indoor sportsing: calories -->
-    <string name="ps_diary_complete_training_calories">%1$@:\n%2$@</string>
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
 
     <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
-    <string name="ps_diary_complete_training_distance_time">%1$@:\n%2$@ %3$@</string>
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s %3$s</string>
 
     <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
-    <string name="ps_diary_complete_training_distance_calories">%1$@:\n%2$@ %3$@</string>
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
 
     <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
-    <string name="ps_diary_training_time_calories">%1$@:\n%2$@ %3$@</string>
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s %3$s</string>
 
     <!-- Polestar error cases: Location is off -->
     <string name="record_exercise_location_off">Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy az alkalmazás használata közben vagy mindig hozzáférjen tartózkodási helyedhez.</string>
@@ -157,7 +157,7 @@
     <string name="record_exercise_location_off_precise_location_off">Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy:\n- hozzáférjen tartózkodási helyedhez az alkalmazás használata közben, vagy\n- használja pontos tartózkodási helyedet</string>
 
     <!-- Battery status -->
-    <string name="battery_status_percentage">Akkumulátor %1$s%%</string>
+    <string name="battery_status_percentage">Akkumulátor %s%%</string>
 
     <!-- sleep edit -->
     <string name="sleep_edit_rules_popup_rule_four">Választhatod a „Visszaváltás” lehetőséget az eredeti időzítés beállításához</string>
@@ -169,7 +169,7 @@
     <string name="settings_refuse_data_use_for_rd_purposes_header">Kutatás és fejlesztés</string>
 
     <!-- R&D refusal tick box text -->
-    <string name="settings_refuse_data_use_for_rd_purposes_text">Nem szeretném, hogy adataimat felhasználják a következőhöz: %1$s. Az adatok felhasználása segít a Polar számára a termékek és szolgáltatások fejlesztésében.</string>
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Nem szeretném, hogy adataimat felhasználják a következőhöz: %s. Az adatok felhasználása segít a Polar számára a termékek és szolgáltatások fejlesztésében.</string>
 
     <!-- R&D refusal tick box variable link -->
     <string name="settings_refuse_data_use_for_rd_purposes_link">kutatás és fejlesztés</string>

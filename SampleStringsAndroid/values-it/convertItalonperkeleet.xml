@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--  -->
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Avvisi Avantti Napoli!</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">asasdPer sincronizzare il V650 con l\’app Flow, selezionare \&apos;Sincronizza con dispositivo mobile\&apos; dal menu laterale del V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% di FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">È asdasdnecessario allenarsi almeno 10 minuti oltre il 50% del valore di aswdfrequenza cardiaca massima calcolato per ottenere il feedback.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Allenamento di fondo lento \&amp; fondo medio</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Sincronizzazione dei dati con %s completata.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Sincronizzazione dei dati con %s non riuscita. Riprovare</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Stato della batteria in seguito alla sincronizzazione: %s%%</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Assicurarsi che il telefono e il dispositivo dispongano di Bluetooth attivato e tenerli vicini durante l\\’impostazione. In alternativa, se lo si desidera, è possibile eseguire l\\’impostazione con il computer.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">asdasdIl peso appena calcolato (%s) è diverso di oltre il 10%% rispetto al peso precedente (%s).</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">asdasdThird-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">È disponibile un aggiornamento per il dispositivo %s.\nL\’aggiornamento può richiedere alcuni minuti.</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Le zone di velocità/andatura permettono di selezionare e monitorare facilmente le intensità di allenamento. Le zone visualizzate qui sono quelle predefinite.\n\nSe scegli zone personalizzate, tutti i limiti possono essere modificati.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Bilanciamento sinistra/destra</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Salva e sincronizza</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Cerca o filtra per tipo</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Acconsento alla <b>raccolta e al trattamento dei miei dati personali, tra cui i dati sulla frequenza cardiaca, da parte di Polar</b> in base a quanto descritto nell\’Informativa sulla privacy Polar.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">O\u00ADra</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Tem\u00ADpo in zo\u00ADna di an\u00ADda\u00ADtu\u00ADra</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Sa\u00ADli\u00ADta</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Di\u00ADsce\u00ADsa</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Ve\u00ADlo\u00ADci\u00ADtà ver\u00ADti\u00ADca\u00ADle</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Bi\u00ADlan\u00ADcia\u00ADmen\u00ADto si\u00ADni\u00ADstra/\u00ADde\u00ADstra</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Rischio di infortuni e malattia</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Come mantengo produttivo il mio stato?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Devo mantenere uno stato sempre produttivo?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">La maggior punteggio del sonno profondo avviene durante la <b>prima metà della notte</b>. In media, il sonno profondo costituisce circa il 15% della durata del sonno per gli adulti. Circa il 17% fornisce il punteggio massimo di questo componente di punteggio del sonno. Percentuali più alte o più basse riducono il punteggio.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM sta per rapid eye movement (movimento oculare rapido). Nella fase REM i tuoi muscoli sono rilassati, ma il cervello è attivo. La fase REM <b>risana la tua mente</b> e migliora la <b>memoria</b> e l\&apos;<b>apprendimento</b>. Questa è la fase in cui si sogna di più.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Lo stato Nightly Recharge™ indica il livello di recupero del tuo corpo dall\&apos;allenamento e lo stress durante il sonno. Questa funzionalità combina automaticamente le informazioni misurate sul sonno e sul sistema nervoso autonomo (SNA). Il tuo cuore è il fattore chiave per questi approfondimenti.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Il tuo SNA controlla due gruppi di azioni che il tuo corpo può intraprendere: “attacco o fuga” o “riposo e digestione”. Più elevato è il tuo stato SNA, maggiore è la prevalenza della spinta al “riposo e digestione” rispetto al tuo <b>livello solito</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">È una buona giornata per fare esercizio, ma non esagerare se il tuo corpo dice \&quot;no\&quot;.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Oggi puoi allenarti, anche se potresti non sentirtela al 100%.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Provaci! Consulta il tuo sportwatch per linee guida di allenamento dettagliate!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Oggi ti senti un campione. Provaci!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">La funzionalità Sleep Plus Stages™ misura la quantità e la qualità del sonno. Ogni mattina, visualizza un valore numerico di punteggio del sonno (stato del sonno) che riflette quanto bene hai dormito rispetto agli indicatori di una buona notte di sonno secondo l\&apos;attuale scienza del sonno.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Prenditi del tempo per calmarti alla sera. Questo può aiutarti ad addormentarti più presto e a dormire più a lungo.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Prenditi un momento tutto per te con un esercizio di respirazione guidato Serene. Svolti regolarmente, gli esercizi Serene possono aiutarti a migliorare la qualità del sonno e il tuo benessere complessivo.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Preferiti su %s (%s/%s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/it/smart-coaching?utm_source=flow_featureguidance_ios&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Il tuo <b>consumo massimo di ossigeno (VO2max)</b> è la capacità massima del tuo corpo di consumare ossigeno durante il massimo sforzo.\n\nAggiorna il valore VO2max per permetterci di fornirti i dati più accurati e pertinenti. Il valore VO2max influisce su tutti i calcoli correlati alle calorie.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Il valore della potenza di soglia funzionale (FTP) riflette l\’intensità che un ciclista ben allenato può mantenere per un\’ora.\n\nAggiorna il valore FTP per aggiornare le zone di potenza, in modo da allenarti all\’intensità corretta.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Per i risultati più affidabili, assicurati di restare allo stesso livello di potenza durante tutto il test. Se rallenti, i risultati saranno meno affidabili.\n\nNel primo test ti guideremo con un obiettivo di potenza basato sulle tue informazioni generali. In questo modo, potrai mantenere una potenza costante durante tutto il test. Quando ripeti il test, l\’obiettivo è basato sui risultati precedenti.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Usa il test per tenere traccia delle tue prestazioni e per definire le tue zone di potenza personali. Il risultato FTP diviso il tuo peso ti permette di confrontare il valore con quello di altri ciclisti del tuo stesso sesso. Ricorda di aggiornare il tuo peso nelle impostazioni.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\nin %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Per ottenere velocità e distanza durante l\’allenamento, devi consentire a Flow di utilizzare la tua posizione solo durante l\’uso dell\’app o sempre.</string>
+
+</resources>
